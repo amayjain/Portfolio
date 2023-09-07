@@ -1,0 +1,1550 @@
+,opdb_id,is_machine_group,group_name,group_shortname,description,created_at,updated_at
+0,G5pe4,True,Medieval Madness,MM,,2018-03-12,2018-03-12
+1,G4do5,True,Attack from Mars,AFM,,2018-03-12,2018-03-12
+2,GrEZ5,True,El Dorado,,,2018-03-12,2018-03-12
+3,GRoz4,True,Batman 66,B66,,2018-03-12,2018-03-12
+4,G41d5,True,Game of Thrones,GOT,,2018-03-13,2018-03-13
+5,G5WBr,True,The Big Lebowski,TBL,,2018-03-13,2018-03-13
+6,G5nz5,True,The Walking Dead,TWD,,2018-03-13,2018-03-13
+7,G4jXr,True,KISS,KISS,,2018-03-13,2018-03-13
+8,G4qX5,True,KISS,KISS,,2018-03-13,2018-03-13
+9,GR9Nr,True,Ghostbusters,GB,,2018-03-13,2018-03-13
+10,Gryw4,True,Star Trek,ST,,2018-03-13,2018-03-13
+11,GrPOR,True,Mustang,,,2018-03-13,2018-03-13
+12,GRVq4,True,Iron Man,IM,,2018-03-13,2018-03-13
+13,G4835,True,Cactus Canyon,CC,,2018-03-13,2018-03-13
+14,G43W4,True,AC/DC,ACDC,,2018-03-14,2018-03-14
+15,GRw0r,True,Earthshaker,ES,,2018-03-14,2018-03-14
+16,GRBE4,True,Metallica,MET,,2018-03-14,2018-03-14
+17,G4xyR,True,The Wizard of Oz,WOZ,,2018-03-14,2018-03-14
+18,G5vLR,True,Star Wars,SW,,2018-03-16,2018-03-16
+19,G420r,True,Star Wars,SWDE,,2018-03-16,2018-03-16
+20,GR6Or,True,WrestleMania,WWE,,2018-03-16,2018-03-16
+21,GrNnr,True,Jungle Queen/Princess,,,2018-03-16,2018-03-16
+22,GRL9r,True,Star Wars Episode I,SWE1,,2018-03-16,2018-03-16
+23,G4JZ4,True,High Roller Casino,HRC,,2018-03-16,2018-03-16
+24,G50Wr,True,Revenge From Mars,RFM,,2018-03-16,2018-03-16
+25,G57X4,True,No Good Gofers,NGG,,2018-03-16,2018-03-16
+26,G5bYr,True,The Hobbit,TH,,2018-03-17,2018-03-17
+27,GrXlr,True,Spider-Man,SM,,2018-03-17,2018-03-17
+28,G5D94,True,Spider-Man,SM,,2018-03-17,2018-03-17
+29,GRYX4,True,Whoa Nellie / PBR,,,2018-03-17,2018-03-17
+30,G4ODR,True,The Addams Family,TAF,,2018-03-17,2018-03-17
+31,GRK95,True,The Flintstones,FS,,2018-03-17,2018-03-17
+32,GrkL5,True,TRON: Legacy,TRON,,2018-03-17,2018-03-17
+33,GrZBr,True,Avatar,,,2018-03-17,2018-03-17
+34,GredR,True,The Rolling Stones,TRS,,2018-03-17,2018-03-17
+35,G5Qz4,True,Rolling Stones,RS,,2018-03-17,2018-03-17
+36,GRzNR,True,The Avengers,TAV,,2018-03-17,2018-03-17
+37,G4llj,True,Tales of the Arabian Nights,TOTAN,,2018-03-17,2018-03-17
+38,GRpee,True,Bride of Pinbot,BOP,,2018-03-17,2018-03-17
+39,Grd2o,True,Transformers The Pin,,,2018-03-17,2018-03-17
+40,G4ELZ,True,America's Most Haunted,AMH,,2018-03-17,2018-03-17
+41,G5oEz,True,Escape from the Lost World,ELW,,2018-03-17,2018-03-17
+42,Gr18d,True,New Canasta,,,2018-03-18,2018-03-18
+43,GRWyB,True,Ripley's Believe It or Not!,RBION,,2018-03-18,2018-03-18
+44,GRnPz,True,Transformers,TF,,2018-03-18,2018-03-18
+45,Grj6X,True,X-Men,XM,,2018-03-18,2018-03-18
+46,GrqZX,True,Lord of the Rings,LOTR,,2018-03-18,2018-03-18
+47,G59zN,True,Batman Forever,BF,,2018-03-18,2018-03-18
+48,G4yVw,True,Batman,BDK,,2018-03-18,2018-03-18
+49,G4PBO,True,Alien,,,2018-03-18,2018-03-18
+50,G5V8q,True,Full Throttle,FTH,,2018-03-18,2018-03-18
+51,Gr8l3,True,Indianapolis 500,I500,,2018-03-18,2018-03-18
+52,Gr3EW,True,Monster Bash,MB,,2018-03-18,2018-03-18
+53,G5we0,True,Starship Troopers,SST,,2018-03-18,2018-03-18
+54,G5BLE,True,Theatre of Magic,TOM,,2018-03-18,2018-03-18
+55,Grxvy,True,Baywatch,BW,,2018-03-18,2018-03-18
+56,GRvBL,True,The Simpsons Pinball Party,TSPP,,2018-03-18,2018-03-18
+57,Gr2L0,True,Harley Davidson,HD,,2018-03-18,2018-03-18
+58,G56lO,True,Harley Davidson,,,2018-03-18,2018-03-18
+59,G4N6n,True,Big Buck Hunter Pro,BBH,,2018-03-18,2018-03-18
+60,G5LW9,True,Family Guy / Shrek,,,2018-03-18,2018-03-18
+61,GrJ2Z,True,Dirty Harry,DH,,2018-03-18,2018-03-18
+62,GR0lW,True,Popeye Saves the Earth,PSTE,,2018-03-18,2018-03-18
+63,GR7ZX,True,Pirates of the Caribbean,POTC,,2018-03-18,2018-03-18
+64,GRbPY,True,Pirates of the Caribbean,POTC,,2018-03-18,2018-03-18
+65,G4X2l,True,Dialed In!,DI,,2018-03-18,2018-03-18
+66,GRD79,True,Total Nuclear Annihilation,TNA,,2018-03-18,2018-03-18
+67,G5YWX,True,Nascar,,,2018-03-18,2018-03-18
+68,GrO0D,True,NBA Fastbreak,NBAFB,,2018-03-18,2018-03-18
+69,G5K19,True,NBA,NBA,,2018-03-18,2018-03-18
+70,G4kBL,True,The Lost World Jurassic Park,LW,,2018-03-18,2018-03-18
+71,G4ZVB,True,Jurassic Park,JP,,2018-03-18,2018-03-18
+72,G4e1d,True,Indiana Jones,IJ4,,2018-03-18,2018-03-18
+73,GRQKz,True,White Water,WH2O,,2018-03-18,2018-03-18
+74,G5zyN,True,Wrath of Olympus,WOOLY,,2018-03-18,2018-03-18
+75,GrlPj,True,King of Diamonds,,,2018-03-18,2018-03-18
+76,G5poe,True,World Poker Tour,WPT,,2018-03-18,2018-03-18
+77,G4doo,True,Lexy Lightspeed Escape From Earth,LL-EE,,2018-03-18,2018-03-18
+78,GrEkZ,True,24,24,,2018-03-18,2018-03-18
+79,GRokz,True,CSI: Crime Scene Investigation,CSI,,2018-03-18,2018-03-18
+80,G417d,True,Wheel of Fortune,WoF,,2018-03-18,2018-03-18
+81,G5WoB,True,The Sopranos,,,2018-03-18,2018-03-18
+82,G5nbz,True,Vacation America,,,2018-03-18,2018-03-18
+83,G4jPX,True,The Shadow,TS,,2018-03-18,2018-03-18
+84,G4qbX,True,Elvis,,,2018-03-18,2018-03-18
+85,GR91N,True,Terminator 3: Rise of the Machines,T3,,2018-03-18,2018-03-18
+86,Grybw,True,RollerCoaster Tycoon,RCT,,2018-03-18,2018-03-18
+87,GrPKO,True,Playboy,PB,,2018-03-18,2018-03-18
+88,GRVjq,True,Striker Xtreme / NFL,,,2018-03-18,2018-03-18
+89,G48w3,True,Monopoly,MON,,2018-03-18,2018-03-18
+90,G43BW,True,Austin Powers,AP,,2018-03-18,2018-03-18
+91,GRwv0,True,Sharkey's Shootout,SS,,2018-03-18,2018-03-18
+92,GRB7E,True,Mary Shelley's Frankenstein,MSF,,2018-03-18,2018-03-18
+93,G4xZy,True,Indiana Jones: The Pinball Adventure,IJ,,2018-03-18,2018-03-18
+94,G5vnL,True,Adventures of Rocky and Bullwinkle and Friends,R&B,,2018-03-18,2018-03-18
+95,G42k0,True,Champion Pub,CP,,2018-03-18,2018-03-18
+96,GR6wO,True,Tales from the Crypt,TFTC,,2018-03-18,2018-03-18
+97,GrNWn,True,Creature from the Black Lagoon,CFTBL,,2018-03-18,2018-03-18
+98,GRLL9,True,Pistol Poker,,,2018-03-18,2018-03-18
+99,GrlPK,True,Spirit of 67 / Pioneer / New York,,,2018-03-18,2018-03-18
+100,G5po2,True,Godzilla,,,2018-03-19,2018-03-19
+101,G4doQ,True,Independence Day,ID4,,2018-03-19,2018-03-19
+102,GrEke,True,Six Million Dollar Man,$6M,,2018-03-19,2018-03-19
+103,GRokL,True,Lethal Weapon 3,LW3,,2018-03-19,2018-03-19
+104,G417e,True,Mata Hari,MH,,2018-03-19,2018-03-19
+105,G5Woz,True,Charlie’s Angels,CA,,2018-03-19,2018-03-19
+106,G5nbD,True,Black Jack,BJ,,2018-03-19,2018-03-19
+107,G4jPq,True,The X Files,XF,,2018-03-19,2018-03-19
+108,G4qbD,True,South Park,SP,,2018-03-19,2018-03-19
+109,GR91x,True,Lost In Space,LIS,,2018-03-19,2018-03-19
+110,GrybN,True,Star Wars Trilogy,SWT,,2018-03-19,2018-03-19
+111,GrPKV,True,Guns N' Roses,GNR,,2018-03-19,2018-03-19
+112,GRVjJ,True,Cirqus Voltaire,CV,,2018-03-19,2018-03-19
+113,G482d,True,Space Jam,SJ,,2018-03-19,2018-03-19
+114,G43wE,True,Goldeneye,,,2018-03-19,2018-03-19
+115,GRwbv,True,Twister,,,2018-03-19,2018-03-19
+116,GRBqq,True,Mario Andretti,MA,,2018-03-19,2018-03-19
+117,G4xbP,True,Scared Stiff,SS,,2018-03-19,2018-03-19
+118,G5vYZ,True,Verne's World,,,2018-03-19,2018-03-19
+119,G42W2,True,Io Moon,,,2018-03-19,2018-03-19
+120,GR6W8,True,Johnny Mnemonic,JM,,2018-03-19,2018-03-19
+121,GrNd0,True,Congo,CNG,,2018-03-19,2018-03-19
+122,GRLlj,True,Junk Yard,JY,,2018-03-19,2018-03-19
+123,G4JK7,True,Waterworld,WW,,2018-03-19,2018-03-19
+124,G50kj,True,WHO dunnit,W?D,,2018-03-19,2018-03-19
+125,G57y6,True,WWF Royal Rumble,WWF,,2018-03-19,2018-03-19
+126,G5bv3,True,Demolition Man,DM,,2018-03-19,2018-03-19
+127,GrXzD,True,Twilight Zone,TZ,,2018-03-19,2018-03-19
+128,G5DYX,True,Class of 1812,C1812,,2018-03-19,2018-03-19
+129,GRYzo,True,Golden Cue,GCP,,2018-03-19,2018-03-19
+130,G4Obw,True,Viper Night Drivin',VPR,,2018-03-19,2018-03-19
+131,GRKKk,True,Flipper Football,,,2018-03-19,2018-03-19
+132,GrknN,True,Cleopatra,,,2018-03-20,2018-03-20
+133,GrZXj,True,Pinball,,,2018-03-20,2018-03-20
+134,Grep0,True,Hot Tip,HT,,2018-03-20,2018-03-20
+135,G5Q19,True,Volley,,,2018-03-20,2018-03-20
+136,GRzxO,True,Ski Jump,,,2018-03-20,2018-03-20
+137,G4l8K,True,Wizard!,,,2018-03-20,2018-03-20
+138,GRpZ2,True,Abra Ca Dabra / Team One,,,2018-03-20,2018-03-20
+139,GrdlQ,True,Strato/Astro/Super-Flite,,,2018-03-20,2018-03-20
+140,G4EZe,True,Airborne,AB,,2018-03-20,2018-03-20
+141,G5oVL,True,Dona Elvira 2,,,2018-03-20,2018-03-20
+142,Gr16e,True,Aerosmith,AS,,2018-03-20,2018-03-20
+143,GRWvz,True,Guardians of the Galaxy,GOTG,,2018-03-20,2018-03-20
+144,GRn8D,True,Soccer / Super Soccer,,,2018-03-20,2018-03-20
+145,Grj9q,True,Deadly Weapon,DW,,2018-03-22,2018-03-22
+146,Grq1D,True,Phantom of the Opera,POTO,,2018-03-22,2018-03-22
+147,G59wx,True,Evel Knievel,EK,,2018-03-22,2018-03-22
+148,G4yZN,True,Iron Maiden,,,2018-03-22,2018-03-22
+149,G4PoV,True,Shaq Attaq,,,2018-03-23,2018-03-23
+150,G5VBJ,True,The Simpsons,,,2018-03-23,2018-03-23
+151,Gr8jd,True,Silver Slugger,,,2018-03-23,2018-03-23
+152,Gr3yE,True,Mundial 90 / Flip-VI,,,2018-03-23,2018-03-23
+153,G5wxv,True,A.G. Soccer-Ball / A.G. Football,,,2018-03-23,2018-03-23
+154,G5BNq,True,King Kong,,,2018-03-23,2018-03-23
+155,GrxPP,True,Black Knight 2000,BK2K,,2018-03-23,2018-03-23
+156,GRveZ,True,Captain Fantastic and the Brown Dirt Cowboy,CF,,2018-03-23,2018-03-23
+157,Gr2Y2,True,No Fear: Dangerous Sports,NF,,2018-03-23,2018-03-23
+158,G56Y8,True,World Cup '90,,,2018-03-23,2018-03-23
+159,G4NY0,True,Night Moves,,,2018-03-23,2018-03-23
+160,G5LYj,True,Corsario,,,2018-03-23,2018-03-23
+161,GrJ07,True,Mac Attack,,,2018-03-23,2018-03-23
+162,GR02j,True,Dakar,,,2018-03-23,2018-03-23
+163,GR7j6,True,Hi Ball,,,2018-03-23,2018-03-23
+164,GRbX3,True,Hardbody,,,2018-03-23,2018-03-23
+165,G4X1D,True,Super Flipp,,,2018-03-23,2018-03-23
+166,GRDkX,True,Special Force,,,2018-03-23,2018-03-23
+167,G5Yyo,True,Tag-Team Pinball,,,2018-03-23,2018-03-23
+168,GrO7w,True,Black Knight,BK,,2018-03-23,2018-03-23
+169,G5KXk,True,Eight Ball Deluxe,EBD,,2018-03-23,2018-03-23
+170,G4kzN,True,Frank Thomas' Big Hurt,BH,,2018-03-23,2018-03-23
+171,G4Zyj,True,Apocalypse Now,,,2018-03-23,2018-03-23
+172,G4en0,True,Bobby Orr's Power Play,BOPP,,2018-03-24,2018-03-24
+173,GRQ79,True,Stampede / Rawhide,,,2018-03-25,2018-03-25
+174,G5zQO,True,Out of Sight / Far Out,,,2018-03-25,2018-03-25
+175,GrlXK,True,Alice Cooper's Nightmare Castle,ACNC,,2018-03-26,2018-03-26
+176,G5pp2,True,Rob Zombie's Spookshow International,RZ,,2018-03-26,2018-03-26
+177,G4dOQ,True,Iron Maiden: Legacy of the Beast,LotB,,2018-03-28,2018-03-28
+178,GrE7e,True,Whirlwind,WW,,2018-03-28,2018-03-28
+179,GRozL,True,Bugs Bunny's Birthday Ball,BBBB,,2018-03-31,2018-03-31
+180,G411e,True,Apollo 13,A13,,2018-03-31,2018-03-31
+181,G5W0z,True,Surf 'n Safari,,,2018-03-31,2018-03-31
+182,G5n2D,True,Transporter the Rescue,,,2018-03-31,2018-03-31
+183,G4jWq,True,Jolly Park,,,2018-03-31,2018-03-31
+184,G4qdD,True,Pinball Circus,,,2018-03-31,2018-03-31
+185,GR9Bx,True,Terminator 2: Judgment Day,T2,,2018-03-31,2018-03-31
+186,Gry9N,True,Atarians,,,2018-03-31,2018-03-31
+187,GrPzV,True,Swords of Fury,SOF,,2018-03-31,2018-03-31
+188,GRVEJ,True,Dr. Dude And His Excellent Ray,DRD,,2018-03-31,2018-03-31
+189,G48od,True,Kingpin,,,2018-03-31,2018-03-31
+190,G43oE,True,Breakshot,,,2018-03-31,2018-03-31
+191,GRwyv,True,Barb Wire,BW,,2018-03-31,2018-03-31
+192,GRBxq,True,Safe Cracker,SC,,2018-03-31,2018-03-31
+193,G4x2P,True,Punchy the Clown,,,2018-03-31,2018-03-31
+194,G5vZZ,True,Mystery Castle,MC,,2018-03-31,2018-03-31
+195,G42E2,True,World Cup Soccer,WCS,,2018-03-31,2018-03-31
+196,GR6d8,True,Star Trek: The Next Generation,STTNG,,2018-03-31,2018-03-31
+197,GrN90,True,Taxi,TXI,,2018-03-31,2018-03-31
+198,GRLzj,True,TX-Sector,TX,,2018-03-31,2018-03-31
+199,GrlZe,True,Lights...Camera...Action!,LCA,,2018-03-31,2018-03-31
+200,G5pNW,True,Rescue 911,R911,,2018-03-31,2018-03-31
+201,G4dWd,True,Road Show,RS,,2018-03-31,2018-03-31
+202,GrEBz,True,Bad Cats,BC,,2018-03-31,2018-03-31
+203,GRoZw,True,Judge Dredd,JD,,2018-03-31,2018-03-31
+204,G41do,True,Bram Stoker's Dracula,BSD,,2018-03-31,2018-03-31
+205,G5Wxd,True,Fish Tales,FT,,2018-03-31,2018-03-31
+206,G5nZJ,True,Chicago Cubs 'Triple Play',,,2018-03-31,2018-03-31
+207,G4j2z,True,Hoops,,,2018-03-31,2018-03-31
+208,G4qvL,True,Close Encounters of the Third Kind,CE3K,,2018-03-31,2018-03-31
+209,GR9qY,True,Freedom,,,2018-03-31,2018-03-31
+210,GryQj,True,Night Rider,,,2018-03-31,2018-03-31
+211,GrP6q,True,Nitro Ground Shaker,NGS,,2018-03-31,2018-03-31
+212,GRVL2,True,Lady Robin Hood,,,2018-03-31,2018-03-31
+213,G48on,True,Torpedo Alley,,,2018-03-31,2018-03-31
+214,G43oq,True,Mousin' Around!,MA,,2018-03-31,2018-03-31
+215,GRwyq,True,Last Action Hero,LAH,,2018-03-31,2018-03-31
+216,GRBxQ,True,Gilligan's Island,GI,,2018-03-31,2018-03-31
+217,G4x2Y,True,Doctor Who,DW,,2018-03-31,2018-03-31
+218,G5vZd,True,Black Rose,BR,,2018-03-31,2018-03-31
+219,G42EQ,True,Hook,,,2018-03-31,2018-03-31
+220,GR6do,True,The Who's Tommy Pinball Wizard,TOMMY,,2018-03-31,2018-03-31
+221,GrN9V,True,Maverick,MAV,,2018-03-31,2018-03-31
+222,GRLz0,True,Al's Garage Band goes on a World Tour,AGBGOAWT,,2018-03-31,2018-03-31
+223,G4Jdp,True,Checkpoint,CP,,2018-03-31,2018-03-31
+224,G50pv,True,Stargate,SG,,2018-03-31,2018-03-31
+225,G57EJ,True,Michael Jordan,MJ,,2018-03-31,2018-03-31
+226,G5bxy,True,Cactus Jack's,CJ,,2018-03-31,2018-03-31
+227,GrX09,True,Hurricane,,,2018-03-31,2018-03-31
+228,G5Dz7,True,Funhouse,FH,,2018-03-31,2018-03-31
+229,GRY2O,True,F-14 Tomcat,F14,,2018-03-31,2018-03-31
+230,G4O2b,True,Cyclone,CYC,,2018-03-31,2018-03-31
+231,GRKOX,True,Jack•Bot,J•B,,2018-03-31,2018-03-31
+232,GrkVZ,True,Bushido,,,2018-03-31,2018-03-31
+233,GrZnn,True,Pinball Magic,PM,,2018-03-31,2018-03-31
+234,GreOx,True,World Challenge Soccer,,,2018-03-31,2018-03-31
+235,G5QXO,True,Space Station,,,2018-03-31,2018-03-31
+236,GRzB7,True,Freddy: A Nightmare On Elm Street,FREDDY,,2018-03-31,2018-03-31
+237,G4lVe,True,Mach 2,,,2018-03-31,2018-03-31
+238,GRpbW,True,Back to the Future,BTTF,,2018-03-31,2018-03-31
+239,Grd6d,True,Car Hop,CH,,2018-03-31,2018-03-31
+240,G4E0z,True,Riverboat Gambler,RG,,2018-03-31,2018-03-31
+241,G5oBw,True,The Party Zone,PZ,,2018-03-31,2018-03-31
+242,Gr1Ko,True,Rollergames,RG,,2018-03-31,2018-03-31
+243,GRWBd,True,Diner,DNR,,2018-03-31,2018-03-31
+244,GRn9J,True,Atleta,,,2018-03-31,2018-03-31
+245,GrjDz,True,Corvette,CRVT,,2018-03-31,2018-03-31
+246,GrqVL,True,Vegas,,,2018-03-31,2018-03-31
+247,G59ZY,True,Radical!,,,2018-03-31,2018-03-31
+248,G4yzj,True,Tee'd Off,,,2018-03-31,2018-03-31
+249,G4P9q,True,Gladiators,,,2018-03-31,2018-03-31
+250,G5V92,True,The Bally Game Show,GS,,2018-03-31,2018-03-31
+251,Gr8xn,True,Teenage Mutant Ninja Turtles,TMNT,,2018-03-31,2018-03-31
+252,Gr3Lq,True,Operation: Thunder,OT,,2018-03-31,2018-03-31
+253,G5w3q,True,Wipe Out,WO,,2018-03-31,2018-03-31
+254,G5BYQ,True,Street Fighter II,SF2,,2018-03-31,2018-03-31
+255,Grx8Y,True,The Getaway: High Speed II,HS2,,2018-03-31,2018-03-31
+256,GRvzd,True,High Speed,HS,,2018-03-31,2018-03-31
+257,Gr22Q,True,250 cc,,,2018-03-31,2018-03-31
+258,G56vo,True,Big Bang Bar,BBB,,2018-03-31,2018-03-31
+259,G4NzV,True,Bike Race,,,2018-03-31,2018-03-31
+260,G5Lk0,True,Bone Busters Inc.,BB,,2018-04-01,2018-04-01
+261,GrJkp,True,Amazon Hunt,AH,,2018-04-01,2018-04-01
+262,GR07v,True,Big House,,,2018-04-01,2018-04-01
+263,GR7bJ,True,Caribbean Cruise,,,2018-04-01,2018-04-01
+264,GRb2y,True,Motor Show,,,2018-04-01,2018-04-01
+265,G4Xw9,True,Title Fight,,,2018-04-01,2018-04-01
+266,GRD67,True,U-Boat 65,U65,,2018-04-01,2018-04-01
+267,G5Y6O,True,Truck Stop,,,2018-04-01,2018-04-01
+268,GrOpb,True,Batman,BM,,2018-04-01,2018-04-01
+269,G5K6X,True,Blackwater 100,BW100,,2018-04-01,2018-04-01
+270,G4kyZ,True,Space Team,,,2018-04-01,2018-04-01
+271,G4Z6n,True,Mac's Galaxy,,,2018-04-01,2018-04-01
+272,G4exx,True,Lap By Lap,,,2018-04-01,2018-04-01
+273,GRQEO,True,Papillon,,,2018-04-01,2018-04-01
+274,G5zZ7,True,Monday Night Football,MNF,,2018-04-01,2018-04-01
+275,Grlxe,True,Robocop,,,2018-04-01,2018-04-01
+276,G5p8W,True,Cirsa Sport 2000,,,2018-04-01,2018-04-01
+277,G4d8d,True,Police Force,PF,,2018-04-01,2018-04-01
+278,GrEVz,True,Hot Shots,,,2018-04-01,2018-04-01
+279,GRoyw,True,Thunder Man,,,2018-04-01,2018-04-01
+280,G41Lo,True,Fire!,F!,,2018-04-01,2018-04-01
+281,G5WXd,True,Gold Wings,GW,,2018-04-01,2018-04-01
+282,G5nzJ,True,Strange Science,SS,,2018-04-01,2018-04-01
+283,G4jyz,True,Space Shuttle,,,2018-04-01,2018-04-01
+284,G4q3L,True,Space Shuttle,SS,,2018-04-01,2018-04-01
+285,GR99Y,True,Time Machine,TM,,2018-04-01,2018-04-01
+286,Gry3j,True,Jokerz!,J!,,2018-04-01,2018-04-01
+287,GrPdq,True,Pinball Champ,,,2018-04-01,2018-04-01
+288,GRVw2,True,Farfalla,,,2018-04-01,2018-04-01
+289,G48qn,True,Roller Disco,,,2018-04-01,2018-04-01
+290,G43Yq,True,Dolly Parton,DP,,2018-04-01,2018-04-01
+291,GRwjq,True,Frontier,,,2018-04-01,2018-04-01
+292,GRBzQ,True,Super Mario Bros.,SMB,,2018-04-01,2018-04-01
+293,G4x3Y,True,Metal Man,,,2018-04-01,2018-04-01
+294,G5vPd,True,Cue Ball Wizard,CBW,,2018-04-01,2018-04-01
+295,G42qQ,True,Star Trek,,,2018-04-01,2018-04-01
+296,GR68o,True,Pool Sharks,,,2018-04-01,2018-04-01
+297,GrNlV,True,Atlantis,,,2018-04-01,2018-04-01
+298,GRL60,True,Playboy 35th Anniversary,,,2018-04-01,2018-04-01
+299,Grlxp,True,Elvira and the Party Monsters,EATPM,,2018-04-01,2018-04-01
+300,G5p8V,True,Scramble,,,2018-04-01,2018-04-01
+301,G4d8k,True,Big Guns,BG,,2018-04-01,2018-04-01
+302,GrEVb,True,City Slicker,,,2018-04-01,2018-04-01
+303,GRo3e,True,Heavy Metal Meltdown,HMM,,2018-04-01,2018-04-01
+304,G41Z8,True,Pinbot,PB,,2018-04-01,2018-04-01
+305,G5WOo,True,Bad Girls,BG,,2018-04-01,2018-04-01
+306,G5n38,True,Millionaire,MIL,,2018-04-01,2018-04-01
+307,G4jXW,True,Diamond Lady,,,2018-04-01,2018-04-01
+308,G4qqv,True,Secret Service,,,2018-04-01,2018-04-01
+309,GR9lZ,True,Banzai Run,BR,,2018-04-01,2018-04-01
+310,GryK3,True,Robo-War,RW,,2018-04-01,2018-04-01
+311,GrPbb,True,Excalibur,,,2018-04-01,2018-04-01
+312,GRVOY,True,Hang-On,,,2018-04-01,2018-04-01
+313,G48ZN,True,Fireball,FB,,2018-04-01,2018-04-01
+314,G439V,True,Eight Ball Champ,EBC,,2018-04-01,2018-04-01
+315,GRwZ7,True,Cyclopes,,,2018-04-01,2018-04-01
+316,GRBKZ,True,Genie,,,2018-04-01,2018-04-01
+317,G4xqN,True,Sinbad / Eye Of The Tiger,,,2018-04-01,2018-04-01
+318,G5v9V,True,Escape,,,2018-04-01,2018-04-01
+319,G42Zz,True,Party Animal,PA,,2018-04-01,2018-04-01
+320,GR69j,True,Cybernaut,,,2018-04-01,2018-04-01
+321,GrN0J,True,Space Train,,,2018-04-02,2018-04-02
+322,GRLKd,True,Spring Break,,,2018-04-02,2018-04-02
+323,G4JBP,True,Dungeons & Dragons,D&D,,2018-04-02,2018-04-02
+324,G50zO,True,Cobra,,,2018-04-02,2018-04-02
+325,G578Y,True,Monte Carlo,,,2018-04-02,2018-04-02
+326,G5bQq,True,Panthera,,,2018-04-02,2018-04-02
+327,GrXOZ,True,Andromeda,,,2018-04-02,2018-04-02
+328,G5DKQ,True,Odisea Paris Dakar,,,2018-04-02,2018-04-02
+329,GRY9k,True,Beat the Clock,BTC,,2018-04-02,2018-04-02
+330,G4Oye,True,F1 Grand Prix,,,2018-04-02,2018-04-02
+331,GRK23,True,Odin Deluxe,,,2018-04-02,2018-04-02
+332,Grk62,True,Rock,ROCK,,2018-04-02,2018-04-02
+333,GrZxD,True,Attila the Hun,ATH,,2018-04-02,2018-04-02
+334,Gre72,True,Pink Panther,PP,,2018-04-02,2018-04-02
+335,G5QOw,True,Mystic Star / Devil King,,,2018-04-03,2018-04-03
+336,GRzJ1,True,X Force,,,2018-04-03,2018-04-03
+337,G4lLp,True,Stellar Wars,SW,,2018-04-03,2018-04-03
+338,GRpBV,True,Future Queen,,,2018-04-03,2018-04-03
+339,GrdBk,True,Victory,,,2018-04-04,2018-04-04
+340,G4EKb,True,Arena,,,2018-04-04,2018-04-04
+341,G5one,True,Laser War,LW,,2018-04-04,2018-04-04
+342,Gr1j8,True,Spooky,,,2018-04-04,2018-04-04
+343,GRW3o,True,Lortium,,,2018-04-04,2018-04-04
+344,GRnW8,True,White Force,,,2018-04-04,2018-04-04
+345,GrjdW,True,Bloody Roller,,,2018-04-04,2018-04-04
+346,GrqXv,True,Mephisto,,,2018-04-04,2018-04-04
+347,G59LZ,True,Iron Balls,,,2018-04-04,2018-04-04
+348,G4y63,True,Galaxy Play 2,,,2018-04-04,2018-04-04
+349,G4P0b,True,Wolf Man,,,2018-04-04,2018-04-04
+350,G5VYY,True,Star's Phoenix,,,2018-04-04,2018-04-04
+351,Gr8PN,True,Motordome,,,2018-04-04,2018-04-04
+352,Gr3ZV,True,Moon Light,,,2018-04-04,2018-04-04
+353,G5w67,True,Star Wars,,,2018-04-04,2018-04-04
+354,G5B9Z,True,Hollywood Heat,HH,,2018-04-04,2018-04-04
+355,GrxeN,True,Mexico 86,M86,,2018-04-04,2018-04-04
+356,GRvJV,True,Laser Cue,LC,,2018-04-04,2018-04-04
+357,Gr2wz,True,Genesis,GEN,,2018-04-04,2018-04-04
+358,G562j,True,Black Belt / Karate Fight,,,2018-04-05,2018-04-05
+359,G4NKJ,True,Road Kings,RK,,2018-04-05,2018-04-05
+360,G5Ljd,True,Blackbelt,,,2018-04-05,2018-04-05
+361,GrJWP,True,Raven,,,2018-04-05,2018-04-05
+362,GR0nO,True,Lady Luck,LL,,2018-04-05,2018-04-05
+363,GR7DY,True,Halley Comet,,,2018-04-05,2018-04-05
+364,GRb7q,True,Skill Flight,,,2018-04-05,2018-04-05
+365,G4XPZ,True,Grand Lizard,GL,,2018-04-05,2018-04-05
+366,GRDlQ,True,Galaxy Play,,,2018-04-05,2018-04-05
+367,G5YVk,True,Space Ship,,,2018-04-05,2018-04-05
+368,GrOLe,True,Nemesis,,,2018-04-05,2018-04-05
+369,G5Kn3,True,Rider's Surf,,,2018-04-05,2018-04-05
+370,G4kE2,True,301/Bulls Eye,,,2018-04-05,2018-04-05
+371,G4ZPD,True,Flash Dragon,,,2018-04-05,2018-04-05
+372,G4eQ2,True,Dark Shadow,,,2018-04-05,2018-04-05
+373,GRQVw,True,Aqualand,,,2018-04-05,2018-04-05
+374,G5z71,True,Zankor,,,2018-04-05,2018-04-05
+375,Grlop,True,Pole Position,,,2018-04-05,2018-04-05
+376,G5pjV,True,America 1492,,,2018-04-05,2018-04-05
+377,G4dLk,True,Evolution,,,2018-04-06,2018-04-06
+378,GrEpb,True,Canasta 86,,,2018-04-06,2018-04-06
+379,GRo6e,True,Gamatron,,,2018-04-06,2018-04-06
+380,G41N8,True,Out Law,,,2018-04-06,2018-04-06
+381,G5Wjo,True,Clown,,,2018-04-06,2018-04-06
+382,G5nO8,True,Bounty Hunter,BH,,2018-04-06,2018-04-06
+383,G4jeW,True,Captain Hook,CH,,2018-04-06,2018-04-06
+384,G4qxv,True,Sorcerer,,,2018-04-06,2018-04-06
+385,GR9NZ,True,The Games,,,2018-04-06,2018-04-06
+386,Gryd3,True,Comet,CMT,,2018-04-06,2018-04-06
+387,GrPpb,True,Jacks Open / Lucky Hand,,,2018-04-06,2018-04-06
+388,GRVnY,True,Black Pyramid,BLPY,,2018-04-07,2018-04-07
+389,G48NN,True,Lady Sharpshooter,,,2018-04-07,2018-04-07
+390,G43DV,True,Ice Fever,,,2018-04-07,2018-04-07
+391,GRwl7,True,Spy Hunter,,,2018-04-07,2018-04-07
+392,GRB8Z,True,New Wave,,,2018-04-07,2018-04-07
+393,G4xpN,True,Hot Fire Birds,,,2018-04-07,2018-04-07
+394,G5vxV,True,Brave Team,,,2018-04-07,2018-04-07
+395,G42Nz,True,Time Fantasy,,,2018-04-07,2018-04-07
+396,GR67j,True,Kings of Steel,,,2018-04-07,2018-04-07
+397,GrN7J,True,Eight Ball,EB,,2018-04-07,2018-04-07
+398,GRLXd,True,Supersonic,,,2018-04-07,2018-04-07
+399,GrleW,True,Strikes and Spares,,,2018-04-07,2018-04-07
+400,G5pxD,True,Cosmic Flash,,,2018-04-07,2018-04-07
+401,G4den,True,Joust,,,2018-04-07,2018-04-07
+402,GrEwE,True,Punk!,,,2018-04-07,2018-04-07
+403,GRo6K,True,Mad Race,,,2018-04-07,2018-04-07
+404,G41Nn,True,Red Baron,,,2018-04-07,2018-04-07
+405,G5Wjk,True,Robot,,,2018-04-07,2018-04-07
+406,G5nOY,True,Star Fire,,,2018-04-07,2018-04-07
+407,G4jex,True,Pool Champion,,,2018-04-07,2018-04-07
+408,G4qx7,True,Trailer,,,2018-04-07,2018-04-07
+409,GR9NQ,True,World Defender,,,2018-04-07,2018-04-07
+410,Grydq,True,Black Fever / Rock 2500,,,2018-04-07,2018-04-07
+411,GrPp3,True,Faeton,,,2018-04-07,2018-04-07
+412,GRVnd,True,Star Trek,,,2018-04-07,2018-04-07
+413,G48NB,True,BMX,BMX,,2018-04-07,2018-04-07
+414,G43DN,True,Megaaton,,,2018-04-07,2018-04-07
+415,GRwlz,True,Royal Flush Deluxe,RFD,,2018-04-07,2018-04-07
+416,GRB86,True,Star Light,,,2018-04-07,2018-04-07
+417,G4xwQ,True,Alien Star,AS,,2018-04-07,2018-04-07
+418,G5v2B,True,Magic Castle,,,2018-04-07,2018-04-07
+419,G429k,True,Mr. Black,,,2018-04-07,2018-04-07
+420,GR6VW,True,Papillon,,,2018-04-08,2018-04-08
+421,GrNkY,True,Devil's Dare,DD,,2018-04-08,2018-04-08
+422,GRL2z,True,Ready...Aim...Fire!,,,2018-04-08,2018-04-08
+423,G4J3k,True,Thunderball,,,2018-04-08,2018-04-08
+424,G50jJ,True,Orbit 1,,,2018-04-08,2018-04-08
+425,G5728,True,Flash Gordon,FG,,2018-04-08,2018-04-08
+426,G5bE7,True,Centaur (Inder),,,2018-04-08,2018-04-08
+427,GrX7q,True,Centaur,,,2018-04-08,2018-04-08
+428,G5DPP,True,Devil Riders,,,2018-04-08,2018-04-08
+429,GRY7E,True,Af-Tor,AFT,,2018-04-08,2018-04-08
+430,G4OKd,True,Granny and the Gators,,,2018-04-08,2018-04-08
+431,GRKYx,True,Nautilus,,,2018-04-08,2018-04-08
+432,Grkpd,True,Agents 777,A777,,2018-04-08,2018-04-08
+433,GrZb1,True,UFO-X,,,2018-04-08,2018-04-08
+434,GreWJ,True,Olympic Games,,,2018-04-08,2018-04-08
+435,G5Q0J,True,Flashman,,,2018-04-08,2018-04-08
+436,GRzwe,True,KZ-26,,,2018-04-08,2018-04-08
+437,G4ldW,True,Touchdown,,,2018-04-08,2018-04-08
+438,GRpWD,True,X's & O's,,,2018-04-08,2018-04-08
+439,Grd1n,True,Raid,,,2018-04-08,2018-04-08
+440,G4EPE,True,Super Orbit,,,2018-04-08,2018-04-08
+441,G5o1K,True,Orbit / Outer Space,,,2018-04-08,2018-04-08
+442,Gr1qn,True,Q*Bert's Quest,Q*B,,2018-04-08,2018-04-08
+443,GRWYk,True,Firepower II,FP2,,2018-04-08,2018-04-08
+444,GRnoY,True,Time Machine,,,2018-04-08,2018-04-08
+445,Grjlx,True,Gold Ball,GB,,2018-04-08,2018-04-08
+446,Grqn7,True,Le King,,,2018-04-08,2018-04-08
+447,G59VQ,True,4X4,,,2018-04-08,2018-04-08
+448,G4ywq,True,Rack 'Em Up,,,2018-04-08,2018-04-08
+449,G4PL3,True,Grand Slam,,,2018-04-08,2018-04-08
+450,G5VDd,True,Firepower,FP,,2018-04-08,2018-04-08
+451,Gr8KB,True,Sharp Shooter II,SSII,,2018-04-09,2018-04-09
+452,Gr3VN,True,Sky Warrior,,,2018-04-09,2018-04-09
+453,G5BP6,True,Haunted House,HH,,2018-04-09,2018-04-09
+454,Grx7Q,True,Orbitor 1,O1,,2018-04-09,2018-04-09
+455,GRv7B,True,Cosmic Gunfight,CG,,2018-04-09,2018-04-09
+456,Gr2Dk,True,Mr. & Mrs. Pac-Man,MMPM,,2018-04-09,2018-04-09
+457,G56KW,True,Super Nova,,,2018-04-09,2018-04-09
+458,G4NvY,True,Cerberus,,,2018-04-09,2018-04-09
+459,G5Lvz,True,Varkon,,,2018-04-09,2018-04-09
+460,GrJvk,True,Rocky,,,2018-04-09,2018-04-09
+461,GR0VJ,True,Soccer Kings,,,2018-04-09,2018-04-09
+462,GR768,True,Caveman,,,2018-04-09,2018-04-09
+463,GRbl7,True,Speakeasy,,,2018-04-09,2018-04-09
+464,G4Xdq,True,Speakeasy / The 30's,,,2018-04-09,2018-04-09
+465,GRD2P,True,Silverball Mania,,,2018-04-09,2018-04-09
+466,G5YEE,True,Striker,,,2018-04-09,2018-04-09
+467,GrOkd,True,Valkyrie,,,2018-04-09,2018-04-09
+468,G5Kvx,True,Baby Pac-Man,BPAC,,2018-04-09,2018-04-09
+469,G4kqd,True,Cue,,,2018-04-09,2018-04-09
+470,G4Zo1,True,Spain 82,,,2018-04-09,2018-04-09
+471,G4eEJ,True,Tiger Woman,,,2018-04-09,2018-04-09
+472,GRQkJ,True,Dragonfist,,,2018-04-09,2018-04-09
+473,G5z2e,True,Warlok,,,2018-04-09,2018-04-09
+474,Grl9W,True,Spirit,,,2018-04-09,2018-04-09
+475,G5p7D,True,Defender,,,2018-04-09,2018-04-09
+476,G4ddn,True,Eclipse,,,2018-04-09,2018-04-09
+477,GrENE,True,Hotdoggin',,,2018-04-09,2018-04-09
+478,GRo7K,True,Barracora,,,2018-04-09,2018-04-09
+479,G41vn,True,Pharaoh,,,2018-04-09,2018-04-09
+480,G5Wpk,True,Force II,FII,,2018-04-09,2018-04-09
+481,G5nkY,True,Jungle Lord,,,2018-04-09,2018-04-09
+482,G4jjx,True,Nine Ball,,,2018-04-09,2018-04-09
+483,G4qk7,True,Embryon,EMB,,2018-04-09,2018-04-09
+484,GR96Q,True,Earth Wind Fire,EWF,,2018-04-09,2018-04-09
+485,Gry7q,True,Fireball II,,,2018-04-09,2018-04-09
+486,GrPO3,True,Fathom,,,2018-04-09,2018-04-09
+487,GRVld,True,Elektra,,,2018-04-09,2018-04-09
+488,G486B,True,Vector,,,2018-04-09,2018-04-09
+489,G436N,True,Global Warfare,,,2018-04-09,2018-04-09
+490,GRw7z,True,Spectrum,,,2018-04-09,2018-04-09
+491,GRB26,True,Solar Fire,,,2018-04-09,2018-04-09
+492,G4xXQ,True,Medusa,,,2018-04-09,2018-04-09
+493,G5vXB,True,Viper,,,2018-04-09,2018-04-09
+494,G42Pk,True,Xenon,,,2018-04-09,2018-04-09
+495,GR6kW,True,Cheetah,,,2018-04-09,2018-04-09
+496,GrNpY,True,Mars God of War,,,2018-04-09,2018-04-09
+497,GRLbz,True,Split Second,,,2018-04-09,2018-04-09
+498,GrlQV,True,Neutron Star,,,2018-04-09,2018-04-09
+499,G5pQ8,True,Lightning,,,2018-04-09,2018-04-09
+500,G4d7B,True,Locomotion,,,2018-04-09,2018-04-09
+501,GrEzp,True,Volcano,,,2018-04-09,2018-04-09
+502,GRoQ6,True,Catacomb,,,2018-04-09,2018-04-09
+503,G41yq,True,Black Hole,BH,,2018-04-09,2018-04-09
+504,G5W9p,True,Freefall,,,2018-04-09,2018-04-09
+505,G5nQQ,True,Algar,,,2018-04-09,2018-04-09
+506,G4jQw,True,Big Game,BG,,2018-04-09,2018-04-09
+507,G4qQj,True,Scorpion,,,2018-04-11,2018-04-11
+508,GR9ko,True,Pinball Lizard,,,2018-04-11,2018-04-11
+509,GryXn,True,Black Magic,,,2018-04-11,2018-04-11
+510,GrPEJ,True,The Flipper Game,,,2018-04-11,2018-04-11
+511,GRVqP,True,The Empire Strikes Back,,,2018-04-11,2018-04-11
+512,G48kY,True,Flight 2000,F2K,,2018-04-11,2018-04-11
+513,G43kO,True,Ali,,,2018-04-11,2018-04-11
+514,GRwYo,True,Blackout,BO,,2018-04-11,2018-04-11
+515,GRBZl,True,Quicksilver,QS,,2018-04-11,2018-04-11
+516,G4xXK,True,Circus,,,2018-04-11,2018-04-11
+517,G5vXk,True,Star God,,,2018-04-11,2018-04-11
+518,G42PX,True,Space Invaders,,,2018-04-11,2018-04-11
+519,GR6kB,True,Seawitch,SEA,,2018-04-11,2018-04-11
+520,GrNpx,True,Skateball,,,2018-04-11,2018-04-11
+521,GRLbx,True,Evil Fight,,,2018-04-11,2018-04-11
+522,G4JbV,True,Torch,,,2018-04-11,2018-04-11
+523,G509D,True,White Shark,,,2018-04-11,2018-04-11
+524,G57kN,True,Viking,,,2018-04-11,2018-04-11
+525,G5b38,True,Meteor,MET,,2018-04-11,2018-04-11
+526,GrXy3,True,Paragon,PG,,2018-04-11,2018-04-11
+527,G5Dbo,True,Future Spa,FS,,2018-04-11,2018-04-11
+528,GRYPN,True,Counterforce,,,2018-04-11,2018-04-11
+529,G4Od9,True,The Hunter,,,2018-04-11,2018-04-11
+530,GRKx7,True,Buck Rogers,BR,,2018-04-11,2018-04-11
+531,GrkOB,True,Playboy,,,2018-04-11,2018-04-11
+532,GrZY2,True,Star Gazer,,,2018-04-11,2018-04-11
+533,Grewp,True,Skateboard,,,2018-04-12,2018-04-12
+534,G5Qx7,True,Monza,,,2018-04-12,2018-04-12
+535,GRzz6,True,Dennis Lillee's Howzat!,,,2018-04-12,2018-04-12
+536,G4lDV,True,Zira,,,2018-04-12,2018-04-12
+537,GRpw8,True,Circus,,,2018-04-12,2018-04-12
+538,GrdDB,True,Galaxy,,,2018-04-12,2018-04-12
+539,G4E9p,True,Fire Mountain,,,2018-04-12,2018-04-12
+540,G5ow6,True,Invader Ball,,,2018-04-12,2018-04-12
+541,Gr13q,True,Time Line,,,2018-04-12,2018-04-12
+542,GRWDp,True,Attack,,,2018-04-12,2018-04-12
+543,GRnwQ,True,Harlem Globetrotters On Tour,HARLEM,,2018-04-12,2018-04-12
+544,Grjww,True,Shark,,,2018-04-12,2018-04-12
+545,GrqBj,True,Formula I,,,2018-04-12,2018-04-12
+546,G59bo,True,Asteroid Annie and the Aliens,AAA,,2018-04-12,2018-04-12
+547,G4yen,True,Alien Poker,AP,,2018-04-12,2018-04-12
+548,G4PXJ,True,James Bond 007,JB,,2018-04-12,2018-04-12
+549,G5VxP,True,Star Race,,,2018-04-12,2018-04-12
+550,Gr83Y,True,Disco '79,,,2018-04-12,2018-04-12
+551,Gr37O,True,Sharpshooter,,,2018-04-12,2018-04-12
+552,G5wJo,True,Time Warp,,,2018-04-21,2018-04-21
+553,G5Bnl,True,Mystic,,,2018-04-21,2018-04-21
+554,GrxNK,True,Tri Zone,,,2018-04-21,2018-04-21
+555,GRvNk,True,Hot Hand,,,2018-04-21,2018-04-21
+556,Gr23X,True,Party,,,2018-04-21,2018-04-21
+557,G56zB,True,Count-Down / Space Walk,,,2018-04-21,2018-04-21
+558,G4NOx,True,Hercules,,,2018-04-21,2018-04-21
+559,G5LOx,True,Eros One / Flame of Athens,,,2018-04-21,2018-04-21
+560,GrJxV,True,T.K.O.,TKO,,2018-04-21,2018-04-21
+561,GR0KD,True,Trident,,,2018-04-21,2018-04-21
+562,GR73N,True,Superman,,,2018-04-21,2018-04-21
+563,GRbD8,True,Rock Star / Blue Note,,,2018-04-21,2018-04-21
+564,G4XD3,True,Take Five / Circa 1933 / The Entertainer,,,2018-04-21,2018-04-21
+565,GRDqo,True,Solar Ride,,,2018-04-21,2018-04-21
+566,G5YDN,True,Totem,TOTEM,,2018-04-21,2018-04-21
+567,GrOY9,True,Hot Wheels,,,2018-04-22,2018-04-22
+568,G5Kl7,True,Space City,,,2018-04-22,2018-04-22
+569,G4kdB,True,Pinball Pool,,,2018-04-22,2018-04-22
+570,G4Zl2,True,Dracula,,,2018-04-22,2018-04-22
+571,G4eyp,True,Magic,,,2018-04-22,2018-04-22
+572,GRQW7,True,The Incredible Hulk,,,2018-04-22,2018-04-22
+573,G5zd6,True,Gorgar,GRGR,,2018-04-22,2018-04-22
+574,GrlEV,True,FJ,,,2018-04-22,2018-04-22
+575,G5pn8,True,Pokerino,,,2018-04-22,2018-04-22
+576,G4d9B,True,Cosmic Princess,,,2018-04-22,2018-04-22
+577,GrEXp,True,Vegas,,,2018-04-22,2018-04-22
+578,GRoW6,True,Family Fun! / Star Strip,,,2018-04-22,2018-04-22
+579,G41oq,True,Shooting the Rapids,,,2018-04-22,2018-04-22
+580,G5WPp,True,Golden Arrow,,,2018-04-22,2018-04-22
+581,G5n1Q,True,Big Shot / Hot Shot / Pro Pool,,,2018-04-22,2018-04-22
+582,G4jpw,True,Antar,,,2018-04-22,2018-04-22
+583,G4qjj,True,Old Coney Island!,,,2018-04-22,2018-04-22
+584,GR9Po,True,Night Fever,,,2018-04-22,2018-04-22
+585,Grypn,True,Flash,,,2018-04-22,2018-04-22
+586,GrP1J,True,Mr. Doom,,,2018-04-22,2018-04-22
+587,GRVyP,True,Antares,,,2018-04-22,2018-04-22
+588,G48yY,True,Swashbuckler,,,2018-04-22,2018-04-22
+589,G43WO,True,Space Orbit,,,2018-04-22,2018-04-22
+590,GRw8o,True,Tiger,,,2018-04-22,2018-04-22
+591,GRBXl,True,Laser Ball,,,2018-04-22,2018-04-22
+592,G4xlK,True,Sky Jump / Free Fall,,,2018-04-22,2018-04-22
+593,G5vVk,True,Demolition Classic,,,2018-04-22,2018-04-22
+594,G421X,True,Road Runner,,,2018-04-22,2018-04-22
+595,GR6qB,True,Harem Cat,,,2018-04-22,2018-04-22
+596,GrNEx,True,Cavalier,,,2018-04-22,2018-04-22
+597,GRLpx,True,Super Tris,,,2018-04-22,2018-04-22
+598,GrlEB,True,Jolly Joker,,,2018-04-22,2018-04-22
+599,G5pnl,True,The Best Jump,,,2018-04-22,2018-04-22
+600,G4d9E,True,Star Shooter,,,2018-04-22,2018-04-22
+601,GrEXx,True,Sheriff / Lawman,,,2018-04-22,2018-04-22
+602,GRoWo,True,Hit the Deck / Neptune,,,2018-04-22,2018-04-22
+603,G41o2,True,Aspen,,,2018-04-22,2018-04-22
+604,G5WP2,True,Don Quijote,,,2018-04-22,2018-04-22
+605,G5n1e,True,Topaz,,,2018-04-22,2018-04-22
+606,G4j1L,True,Black Sheep Squadron,,,2018-04-22,2018-04-22
+607,G4qPZ,True,Dragon,,,2018-04-22,2018-04-22
+608,GR9o1,True,Joker Poker,,,2018-04-22,2018-04-22
+609,Gry0Z,True,Memory Lane,,,2018-04-22,2018-04-22
+610,GrPyz,True,Poker Plus,,,2018-04-22,2018-04-22
+611,GRVpL,True,House of Diamonds / Queen's Castle,,,2018-04-22,2018-04-22
+612,G48Ex,True,Foxy Lady,,,2018-04-22,2018-04-22
+613,G43KY,True,Camel Lights,,,2018-04-22,2018-04-22
+614,GRw0Z,True,Black Velvet,BV,,2018-04-22,2018-04-22
+615,GRBV9,True,Real,,,2018-04-22,2018-04-22
+616,G4x0p,True,Lucky Draw,,,2018-04-22,2018-04-22
+617,G5v02,True,Contact,,,2018-04-22,2018-04-22
+618,G42zD,True,Alaska,,,2018-04-22,2018-04-22
+619,GR6pk,True,Fabulous 50's,,,2018-04-22,2018-04-22
+620,GrNqO,True,World Cup,WC,,2018-04-22,2018-04-22
+621,GRLnp,True,Fair Fight,,,2018-04-22,2018-04-22
+622,G4J11,True,Roy Clark Super Picker,,,2018-04-22,2018-04-22
+623,G50xd,True,Star Battle,,,2018-04-22,2018-04-22
+624,G57dv,True,Circus Circus,,,2018-04-22,2018-04-22
+625,G5bVN,True,Space Gambler,,,2018-04-22,2018-04-22
+626,GrXEW,True,Stars,Stars,,2018-04-22,2018-04-22
+627,G5D3O,True,Lucky Seven,,,2018-04-22,2018-04-22
+628,GRYox,True,Strange World,SW,,2018-04-22,2018-04-22
+629,G4OzV,True,Middle Earth,,,2018-04-22,2018-04-22
+630,GRKWZ,True,Cherry Bell,,,2018-04-22,2018-04-22
+631,GrkW3,True,Voltan Escapes Cosmic Doom,,,2018-04-22,2018-04-22
+632,GrZ1k,True,Centigrade 37,C37,,2018-04-24,2018-04-24
+633,GrelY,True,Jai Alai,,,2018-04-25,2018-04-25
+634,G5QP6,True,Bird Man,,,2018-04-25,2018-04-25
+635,GRzKW,True,Last Lap,,,2018-04-25,2018-04-25
+636,G4lnB,True,Rotation VIII,,,2018-04-25,2018-04-25
+637,GRpyl,True,Strike,,,2018-04-25,2018-04-25
+638,GrdzE,True,Space Riders,,,2018-04-25,2018-04-25
+639,G4Elx,True,Chance,,,2018-04-25,2018-04-25
+640,G5o9o,True,Disco Fever,,,2018-04-25,2018-04-25
+641,Gr1k2,True,Crazy Race,,,2018-04-25,2018-04-25
+642,GRWd2,True,Lectronamo,,,2018-04-25,2018-04-25
+643,GRnqe,True,Spectra IV,,,2018-04-25,2018-04-25
+644,GrjJL,True,Big Town,,,2018-04-25,2018-04-25
+645,GrqJZ,True,Cosmic Wars,,,2018-04-25,2018-04-25
+646,G59y1,True,Ski Jump,,,2018-04-25,2018-04-25
+647,G4ynZ,True,Galaxy Ranger,,,2018-04-25,2018-04-25
+648,G4Plz,True,Criterium 75,,,2018-04-25,2018-04-25
+649,G5VWL,True,Nugent,,,2018-04-25,2018-04-25
+650,Gr89x,True,Mars Trek,MT,,2018-04-25,2018-04-25
+651,Gr31Y,True,Argosy,ARG,,2018-04-25,2018-04-25
+652,G5w1Z,True,Atlantis,,,2018-04-25,2018-04-25
+653,G5BE9,True,Cherokee,,,2018-04-25,2018-04-25
+654,GrxWp,True,Winter Sports,,,2018-04-25,2018-04-25
+655,GRvo2,True,War,,,2018-04-25,2018-04-25
+656,Gr2oD,True,Lucky Shot,,,2018-04-25,2018-04-25
+657,G56jk,True,Chuck-A-Luck,,,2018-04-25,2018-04-25
+658,G4N3O,True,Mr. Evil,,,2018-04-25,2018-04-25
+659,G5LVp,True,Hot & Cold,,,2018-04-25,2018-04-25
+660,GrJy1,True,Rio,,,2018-04-25,2018-04-25
+661,GR0dd,True,Satellite,,,2018-04-25,2018-04-25
+662,GR7qv,True,Big Foot,BF,,2018-04-25,2018-04-25
+663,GRbJN,True,Devil,,,2018-04-30,2018-04-30
+664,G4XjW,True,King,,,2018-04-30,2018-04-30
+665,GRD1O,True,Sea Scare,,,2018-04-30,2018-04-30
+666,G5Yqx,True,Sky Fly,,,2018-04-30,2018-04-30
+667,GrOwV,True,Wild Fyre,WF,,2018-04-30,2018-04-30
+668,G5KPZ,True,Gemini,,,2018-04-30,2018-04-30
+669,G4kJ3,True,Miss Nessie,,,2018-04-30,2018-04-30
+670,G4Z9k,True,Mikoshi,,,2018-04-30,2018-04-30
+671,G4eJY,True,Joker's Wild,,,2018-04-30,2018-04-30
+672,GRQp6,True,Phoenix,,,2018-04-30,2018-04-30
+673,G5zjW,True,Alive,,,2018-04-30,2018-04-30
+674,Grl7B,True,Cha Cha Cha,,,2018-04-30,2018-04-30
+675,G5pkl,True,Hearts Spades,,,2018-04-30,2018-04-30
+676,G4dJE,True,Old Chicago,OC,,2018-04-30,2018-04-30
+677,GrEWx,True,Royal Flush / Card Whiz,,,2018-04-30,2018-04-30
+678,GRoDo,True,Vulcan,,,2018-05-01,2018-05-01
+679,G41E2,True,Gridiron / Pro-Football,,,2018-05-01,2018-05-01
+680,G5Wn2,True,Dragon,,,2018-05-01,2018-05-01
+681,G5nJe,True,Butterfly,,,2018-05-01,2018-05-01
+682,G4jzL,True,Wild Card,,,2018-05-01,2018-05-01
+683,G4qzZ,True,Jet Spin / Super Spin,,,2018-05-01,2018-05-01
+684,GR9v1,True,Icarus,,,2018-05-01,2018-05-01
+685,GryPZ,True,Combat,,,2018-05-01,2018-05-01
+686,GrPJz,True,Rancho,,,2018-05-01,2018-05-01
+687,GRVzL,True,Monaco / Cannes,,,2018-05-01,2018-05-01
+688,G48Dx,True,Time 2000,,,2018-05-01,2018-05-01
+689,G43bY,True,Disco,,,2018-05-01,2018-05-01
+690,GRw9Z,True,Rio,,,2018-05-01,2018-05-01
+691,GRBv9,True,Carnival,,,2018-05-01,2018-05-01
+692,G4xyp,True,Super Straight,,,2018-05-01,2018-05-01
+693,G5vq2,True,Big Deal,,,2018-05-01,2018-05-01
+694,G42bD,True,Circus,,,2018-05-01,2018-05-01
+695,GR6bk,True,Bronco / Mustang,,,2018-05-01,2018-05-01
+696,GrNJO,True,Liberty Bell,,,2018-05-01,2018-05-01
+697,GRLJp,True,Big Hit,,,2018-05-01,2018-05-01
+698,Grlzn,True,Prospector,,,2018-05-01,2018-05-01
+699,G5pEk,True,Lost World,LW,,2018-05-01,2018-05-01
+700,G4dZZ,True,Airborne Avenger,,,2018-05-01,2018-05-01
+701,GrE68,True,Cosmic Pinball,,,2018-05-01,2018-05-01
+702,GRodq,True,Card Castle,,,2018-05-01,2018-05-01
+703,G41bD,True,Saturn,,,2018-05-01,2018-05-01
+704,G5WJw,True,Aerobatics,,,2018-05-01,2018-05-01
+705,G5np6,True,Nautilus,,,2018-05-01,2018-05-01
+706,G4jzK,True,Getaway,,,2018-05-01,2018-05-01
+707,G4qz6,True,Space Race,,,2018-05-01,2018-05-01
+708,GR9vD,True,Rodeo,,,2018-05-01,2018-05-01
+709,GryPE,True,Gun Men,,,2018-05-01,2018-05-01
+710,GrPJ2,True,Joker's Wild,,,2018-05-01,2018-05-01
+711,GRVzX,True,Thunderbolt,,,2018-05-01,2018-05-01
+712,G48DQ,True,Star Explorer,,,2018-05-01,2018-05-01
+713,G43bp,True,Shamrock,,,2018-05-01,2018-05-01
+714,GRw9N,True,Twin-Gain,,,2018-05-01,2018-05-01
+715,GRBv3,True,Timothyt,,,2018-05-01,2018-05-01
+716,G4xyV,True,Supersonic,,,2018-05-01,2018-05-01
+717,G5vqv,True,Nostalgia,,,2018-05-01,2018-05-01
+718,G42bv,True,Temptation,,,2018-05-01,2018-05-01
+719,GR6bZ,True,Diamond Jim,,,2018-05-01,2018-05-01
+720,GrNoL,True,Monte Rosa,,,2018-05-01,2018-05-01
+721,GRLdW,True,Alpha 2001,,,2018-05-01,2018-05-01
+722,G4Jzo,True,Las Vegas,,,2018-05-01,2018-05-01
+723,G50Pk,True,Master Stroke,,,2018-05-01,2018-05-01
+724,G57lj,True,Stingray,,,2018-05-01,2018-05-01
+725,G5bNx,True,Big Together,,,2018-05-01,2018-05-01
+726,GrX80,True,Big Kick,,,2018-05-01,2018-05-01
+727,G5DV6,True,Big Top,,,2018-05-01,2018-05-01
+728,GRY39,True,Ben-Hur,,,2018-05-01,2018-05-01
+729,G4O1L,True,Grand Prix,GP,,2018-05-01,2018-05-01
+730,GRKpw,True,Hang Glider,HG,,2018-05-01,2018-05-01
+731,GrkNp,True,Blue Chip,,,2018-05-01,2018-05-01
+732,GrZwo,True,Surf Champ / Surfer,,,2018-05-01,2018-05-01
+733,GreN3,True,Moon Flight,,,2018-05-01,2018-05-01
+734,G5Qnx,True,Juke Box,,,2018-05-01,2018-05-01
+735,GRzed,True,Kick Off / Quarterback,,,2018-05-01,2018-05-01
+736,G4lNn,True,Buccaneer / Ship Ahoy / High Seas,,,2018-05-01,2018-05-01
+737,GRpLk,True,Aztec,,,2018-05-01,2018-05-01
+738,G4E88,True,New World / Conquest 200,,,2018-05-02,2018-05-02
+739,G5oXq,True,Aladdin's Castle,,,2018-05-02,2018-05-02
+740,Gr1VD,True,Fiesta / Fandango,,,2018-05-02,2018-05-02
+741,GRWVw,True,Underwater,,,2018-05-02,2018-05-02
+742,GRnX6,True,Space Mission / Space Odyssey,,,2018-05-02,2018-05-02
+743,Grj7K,True,Cinema / Hollywood,,,2018-05-02,2018-05-02
+744,GrqL6,True,Bank Shot / Sure Shot,,,2018-05-02,2018-05-02
+745,G59dD,True,Arabian Night,,,2018-05-02,2018-05-02
+746,G4yLE,True,T.N.T. / Rock On / Boogie / Dyn O' Mite,,,2018-05-02,2018-05-02
+747,G4PW2,True,Ten Stars,,,2018-05-02,2018-05-02
+748,G5VPX,True,Explorer,,,2018-05-02,2018-05-02
+749,Gr8zQ,True,Fantasy / Fairy,,,2018-05-02,2018-05-02
+750,Gr33p,True,Winner,,,2018-05-02,2018-05-02
+751,G5wLN,True,Lucky Man / Monte Carlo,,,2018-05-02,2018-05-02
+752,G5By3,True,Wood's Queen,,,2018-05-02,2018-05-02
+753,GrxJV,True,Galaxy,,,2018-05-02,2018-05-02
+754,GRvLv,True,Slap Stick,,,2018-05-02,2018-05-02
+755,Gr28v,True,Flip Flop,,,2018-05-02,2018-05-02
+756,G56xZ,True,Jalisco,,,2018-05-02,2018-05-02
+757,G4NwL,True,Invasion Strategy,,,2018-05-03,2018-05-03
+758,G5L8W,True,The Best Corsair,,,2018-05-03,2018-05-03
+759,GrJPo,True,Big Hunt,,,2018-05-03,2018-05-03
+760,GR00k,True,Crocket,,,2018-05-03,2018-05-03
+761,GR70j,True,Keops,,,2018-05-03,2018-05-03
+762,GRbwx,True,West Show,,,2018-05-03,2018-05-03
+763,G4XW0,True,Robin Hood,,,2018-05-03,2018-05-03
+764,GRDW6,True,Explorer,,,2018-05-03,2018-05-03
+765,G5Yn9,True,Top Speed / Top Racer,,,2018-05-03,2018-05-03
+766,GrOBL,True,Lady Luck / Fortune,,,2018-05-03,2018-05-03
+767,G5KVw,True,Ali Baba,,,2018-05-03,2018-05-03
+768,G4k1p,True,Carnival,,,2018-05-03,2018-05-03
+769,G4Zjo,True,Lucky Smile,,,2018-05-03,2018-05-03
+770,G4ev3,True,Running Horse,,,2018-05-03,2018-05-03
+771,GRQvx,True,Faces,,,2018-05-03,2018-05-03
+772,G5zld,True,Crazy Clock,,,2018-05-03,2018-05-03
+773,GrlWn,True,Surfing,,,2018-05-03,2018-05-03
+774,G5p9k,True,Torpedo,,,2018-05-03,2018-05-03
+775,G4dxZ,True,Universe,,,2018-05-03,2018-05-03
+776,GrEn8,True,Casino Royale,,,2018-05-03,2018-05-03
+777,GRoqq,True,Bow and Arrow,,,2018-05-03,2018-05-03
+778,G410D,True,Little Chief,,,2018-05-03,2018-05-03
+779,G5W1w,True,"""300"" / Top Score",,,2018-05-03,2018-05-03
+780,G5nj6,True,Valencia / Toledo,,,2018-05-07,2018-05-07
+781,G4joK,True,Hi-Deal,,,2018-05-07,2018-05-07
+782,G4qy6,True,Black Gold,,,2018-05-07,2018-05-07
+783,GR9YD,True,Triple Strike,,,2018-05-07,2018-05-07
+784,GryvE,True,Blue Max / Red Baron,,,2018-05-07,2018-05-07
+785,GrPx2,True,Spin Out,,,2018-05-07,2018-05-07
+786,GRVoX,True,Fast Draw / Quick Draw,,,2018-05-07,2018-05-07
+787,G48YQ,True,Pat Hand / Satin Doll,,,2018-05-07,2018-05-07
+788,G430p,True,Black Flag,,,2018-05-07,2018-05-07
+789,GRwBN,True,Hokus Pokus,,,2018-05-07,2018-05-07
+790,GRBo3,True,Big Ben,,,2018-05-07,2018-05-07
+791,G4xzV,True,Knockout,,,2018-05-07,2018-05-07
+792,G5vwv,True,Gold Record / Top Ten,,,2018-05-07,2018-05-07
+793,G420v,True,Air Aces,,,2018-05-07,2018-05-07
+794,GR6DZ,True,King Pin / Pin-up,,,2018-05-07,2018-05-07
+795,GrNNL,True,Criterium 2000,,,2018-05-07,2018-05-07
+796,GRLNW,True,Gold Mine,,,2018-05-07,2018-05-07
+797,Grl0P,True,Caddie,,,2018-05-07,2018-05-07
+798,G5pDZ,True,Caddie,,,2018-05-07,2018-05-07
+799,G4d0O,True,Spirit of 76,,,2018-05-07,2018-05-07
+800,GrEOB,True,Boomerang / Flicker,,,2018-05-07,2018-05-07
+801,GRo0B,True,Criterium 80,,,2018-05-07,2018-05-07
+802,G41DL,True,Black Reed,,,2018-05-07,2018-05-07
+803,G5WKO,True,Super Star / Olympics,,,2018-05-07,2018-05-07
+804,G5n0W,True,Lucky Fruit,,,2018-05-07,2018-05-07
+805,G4jOe,True,Up Away,,,2018-05-07,2018-05-07
+806,G4qln,True,Speed Rush,,,2018-05-07,2018-05-07
+807,GR9O6,True,Ducks,,,2018-05-07,2018-05-07
+808,GryjX,True,Tanga,,,2018-05-07,2018-05-07
+809,GrP7X,True,Red Show,,,2018-05-07,2018-05-07
+810,GRVby,True,Hot Race,,,2018-05-07,2018-05-07
+811,G48OE,True,Atlantis,,,2018-05-07,2018-05-07
+812,G43O1,True,Derby,,,2018-05-07,2018-05-07
+813,GRwW9,True,Dealer's Choice / Lucky Ace / High Ace,,,2018-05-07,2018-05-07
+814,GRBOy,True,Check Mate / Check / Jake Mate,,,2018-05-07,2018-05-07
+815,G4xnz,True,Impact,,,2018-05-07,2018-05-07
+816,G5v11,True,Champion,,,2018-05-07,2018-05-07
+817,G42OJ,True,Ro Go,ROGO,,2018-05-07,2018-05-07
+818,GR6Oy,True,Star Pool,,,2018-05-08,2018-05-08
+819,GrNNZ,True,Gin,,,2018-05-08,2018-05-08
+820,GRLNQ,True,Bon Voyage,,,2018-05-08,2018-05-08
+821,G4JND,True,Top Card / Royal Pair,,,2018-05-08,2018-05-08
+822,G50Oy,True,Sky Rider / Hi-Flyer,,,2018-05-08,2018-05-08
+823,G57OL,True,Magnotron / Duotron,,,2018-05-08,2018-05-08
+824,G5bez,True,Delta Queen,,,2018-05-08,2018-05-08
+825,GrXKb,True,Big Indian / Big Brave,,,2018-05-08,2018-05-08
+826,G5DOx,True,Skylab / Spacelab,,,2018-05-08,2018-05-08
+827,GRYbJ,True,High Hand / Capt. Card,,,2018-05-08,2018-05-08
+828,G4ONX,True,Amigo,,,2018-05-08,2018-05-08
+829,GRKNz,True,Showtime / Dolphin,,,2018-05-08,2018-05-08
+830,Grk0j,True,Sky Kings,,,2018-05-08,2018-05-08
+831,GrZNL,True,Champ,,,2018-05-08,2018-05-08
+832,Gre0B,True,Nip-It,,,2018-05-08,2018-05-08
+833,G5Q9b,True,Twin Win,,,2018-05-08,2018-05-08
+834,GRzny,True,Triple Action / Star Action,,,2018-05-08,2018-05-08
+835,G4l3P,True,Harem,,,2018-05-08,2018-05-08
+836,GRpvZ,True,Joker,,,2018-05-08,2018-05-08
+837,GrdnO,True,The Fiery 30's / Bang! Bang!,,,2018-05-08,2018-05-08
+838,G4EJB,True,Gulfstream / Tropic Fun,,,2018-05-08,2018-05-08
+839,G5oxB,True,Big Show,,,2018-05-08,2018-05-08
+840,Gr1zL,True,Jolly Ride,,,2018-05-08,2018-05-08
+841,GRWwO,True,Tic & Toc,,,2018-05-08,2018-05-08
+842,GRnBW,True,Super Bowling,,,2018-05-08,2018-05-08
+843,GrjVe,True,Tramway,,,2018-05-08,2018-05-08
+844,Grq2n,True,Stripping Funny,,,2018-05-08,2018-05-08
+845,G59K6,True,Yale,,,2018-05-08,2018-05-08
+846,G4yWX,True,Gunner,,,2018-05-08,2018-05-08
+847,G4PqX,True,Chance,,,2018-05-08,2018-05-08
+848,G5V3y,True,Hi-Lo Ace,,,2018-05-08,2018-05-08
+849,Gr87E,True,OXO,,,2018-05-08,2018-05-08
+850,Gr3J1,True,Jubilee / Darling,,,2018-05-08,2018-05-08
+851,G5wo9,True,Riviera,,,2018-05-08,2018-05-08
+852,G5B0y,True,Jungle / Wild Life / Jungle King,,,2018-05-08,2018-05-08
+853,Grx1z,True,Dipsy Doodle / Doodle Bug / Love Bug,,,2018-05-08,2018-05-08
+854,GRvE1,True,Space Time / Time Zone,,,2018-05-08,2018-05-08
+855,Gr2JJ,True,Jack In The Box / Jumping Jack,,,2018-05-08,2018-05-08
+856,G56Jy,True,Hee Haw,,,2018-05-08,2018-05-08
+857,G4NnZ,True,Monte Carlo / Odds & Evens,,,2018-05-08,2018-05-08
+858,G5L1Q,True,Fun-Fest / Swinger,,,2018-05-08,2018-05-08
+859,GrJED,True,Travel Time / Summer Time,,,2018-05-08,2018-05-08
+860,GR06y,True,Magic,,,2018-05-08,2018-05-08
+861,GR7YL,True,Touch,,,2018-05-08,2018-05-08
+862,GRb1z,True,Geisha,,,2018-05-08,2018-05-08
+863,G4XBb,True,Spooksville,,,2018-05-08,2018-05-08
+864,GRDJx,True,Bali-Hi,,,2018-05-08,2018-05-08
+865,G5YxJ,True,Seven Winner,,,2018-05-08,2018-05-08
+866,GrOjX,True,Spanish Eyes / Granada,,,2018-05-08,2018-05-08
+867,G5Koz,True,Play Time,,,2018-05-08,2018-05-08
+868,G4k8j,True,Fore,,,2018-05-08,2018-05-08
+869,G4ZvL,True,Carnival,,,2018-05-08,2018-05-08
+870,G4ejB,True,Babyface,,,2018-05-08,2018-05-08
+871,GRQ3b,True,Rondeevoo,,,2018-05-08,2018-05-08
+872,G5zOy,True,Banjo,,,2018-05-08,2018-05-08
+873,GrlvP,True,Dew-Wa-Ditty,,,2018-05-08,2018-05-08
+874,G5pOZ,True,Wisconsin,,,2018-05-08,2018-05-08
+875,G4dyO,True,Ballerina,,,2018-05-08,2018-05-08
+876,GrEEB,True,Barnacle Bill,,,2018-05-08,2018-05-08
+877,GRoNB,True,Cinderella,,,2018-05-08,2018-05-08
+878,G41WL,True,Speed Way,,,2018-05-08,2018-05-08
+879,G5W6O,True,Football,,,2018-05-08,2018-05-08
+880,G5n6W,True,Boston,,,2018-05-08,2018-05-08
+881,G4jBe,True,Telecard,,,2018-05-08,2018-05-08
+882,G4qOn,True,Super Hockey,,,2018-05-08,2018-05-08
+883,GR986,True,Double-Shuffle,,,2018-05-08,2018-05-08
+884,GryOX,True,K. C. Jones,,,2018-05-08,2018-05-08
+885,GrP8X,True,Tucson,,,2018-05-08,2018-05-08
+886,GRV2y,True,Super Star / Big Star,,,2018-05-08,2018-05-08
+887,G48VE,True,Fan-Tas-Tic,,,2018-05-08,2018-05-08
+888,G43j1,True,Grand Slam / World Series,,,2018-05-08,2018-05-08
+889,GRwO9,True,Little Joe,,,2018-05-08,2018-05-08
+890,GRBly,True,King Rock / King Kool,,,2018-05-08,2018-05-08
+891,G4xOz,True,Casino,,,2018-05-08,2018-05-08
+892,G5vO1,True,Honey,,,2018-05-08,2018-05-08
+893,G42nJ,True,Winner,,,2018-05-08,2018-05-08
+894,GR6yy,True,El Toro,,,2018-05-08,2018-05-08
+895,GrNPZ,True,Flying Carpet,,,2018-05-08,2018-05-08
+896,GRL9Q,True,Drop-A-Card / Pop-A-Card,,,2018-05-08,2018-05-08
+897,Grlvk,True,Comodin,,,2018-05-08,2018-05-08
+898,G5pOY,True,Icarus,,,2018-05-08,2018-05-08
+899,G4dyP,True,Jump Shot,,,2018-05-08,2018-05-08
+900,GrEEy,True,Fortune,,,2018-05-08,2018-05-08
+901,GRoN2,True,Sea Hunt,,,2018-05-08,2018-05-08
+902,G41WY,True,Olympic Hockey,,,2018-05-08,2018-05-08
+903,G5W6N,True,Magic Wizard,,,2018-05-08,2018-05-08
+904,G5n67,True,Sapporo,,,2018-05-08,2018-05-08
+905,G4jBk,True,Mariner / Sea Ray,,,2018-05-08,2018-05-08
+906,G4qO8,True,Stardust,,,2018-05-08,2018-05-08
+907,GR987,True,Gold Rush / Yukon / Klondike,,,2018-05-08,2018-05-08
+908,GryO2,True,4 Square / Astro,,,2018-05-08,2018-05-08
+909,GrPZj,True,Hi-Score Pool,,,2018-05-08,2018-05-08
+910,GRVZ8,True,Four Million B.C.,4MBC,,2018-05-08,2018-05-08
+911,G48nw,True,2001 / Dimension,,,2018-05-08,2018-05-08
+912,G43dw,True,Scuba,,,2018-05-08,2018-05-08
+913,GRwKx,True,4 Queens,4Q,,2018-05-08,2018-05-08
+914,GRBBx,True,Zodiac / Planets,,,2018-05-08,2018-05-08
+915,G4xK8,True,Expressway,,,2018-05-08,2018-05-08
+916,G5vKP,True,Round Up,,,2018-05-08,2018-05-08
+917,G42pZ,True,Roller Coaster,,,2018-05-08,2018-05-08
+918,GR612,True,Playball / Home Run,,,2018-05-08,2018-05-08
+919,GrNZ7,True,Skyrocket,,,2018-05-08,2018-05-08
+920,GRLZ2,True,Extra Inning,,,2018-05-08,2018-05-08
+921,G4JZv,True,Now,,,2018-05-08,2018-05-08
+922,G50L9,True,Challenger,,,2018-05-08,2018-05-08
+923,G57W3,True,The Red Max,,,2018-05-08,2018-05-08
+924,G5bKj,True,Firecracker,,,2018-05-08,2018-05-08
+925,GrXZE,True,Time Tunnel,,,2018-05-08,2018-05-08
+926,G5Dv1,True,Solids N Stripes,,,2018-05-08,2018-05-08
+927,GRYZK,True,Vampire,,,2018-05-08,2018-05-08
+928,G4OZ1,True,Hearts Gain,,,2018-05-08,2018-05-08
+929,GRKZV,True,Snow Queen / Snow Derby,,,2018-05-08,2018-05-08
+930,GrkK0,True,Straight Flush / 3 Jokers,,,2018-05-08,2018-05-08
+931,GrZZv,True,Double-Up,,,2018-05-08,2018-05-08
+932,GreKP,True,Aquarius,,,2018-05-08,2018-05-08
+933,G5QZZ,True,Trail Drive,,,2018-05-08,2018-05-08
+934,GRzYk,True,Strike Zone,,,2018-05-08,2018-05-08
+935,G4lKk,True,See Saw,,,2018-05-08,2018-05-08
+936,GRpKY,True,Groovy / Crescendo,,,2018-05-08,2018-05-08
+937,GrdKP,True,Zip-A-Doo,,,2018-05-08,2018-05-08
+938,G4E2y,True,Baseball / Batter Up,,,2018-05-08,2018-05-08
+939,G5oK2,True,Aces & Kings,,,2018-05-08,2018-05-08
+940,Gr1lY,True,Big Valley,,,2018-05-08,2018-05-08
+941,GRWZN,True,Flip-A-Card / Card Trix,,,2018-05-08,2018-05-08
+942,GRnK7,True,Bowl-O,,,2018-05-08,2018-05-08
+943,GrjKk,True,Jive Time / Rock 'N Roll,,,2018-05-08,2018-05-08
+944,GrqK8,True,4 Aces,,,2018-05-08,2018-05-08
+945,G59j7,True,Polo / Mini Cycle,,,2018-05-08,2018-05-08
+946,G4yY2,True,Camelot / Galahad,,,2018-05-08,2018-05-08
+947,G4PQj,True,Road Race / Stock Car,,,2018-05-08,2018-05-08
+948,G5VQ8,True,Miss Universo,,,2018-05-08,2018-05-08
+949,Gr88w,True,Gay 90's,G90S,,2018-05-08,2018-05-08
+950,Gr3qw,True,King Tut / King Rex,,,2018-05-08,2018-05-08
+951,G5wkx,True,Cowboy / Big Flipper,,,2018-05-08,2018-05-08
+952,G5BJx,True,Seven Up / Set Up,,,2018-05-08,2018-05-08
+953,Grxk8,True,Joust,,,2018-05-08,2018-05-08
+954,GRvkP,True,Skipper,,,2018-05-08,2018-05-08
+955,Gr2jZ,True,Expo / Roto,,,2018-05-08,2018-05-08
+956,G56P2,True,Mibs,,,2018-05-08,2018-05-08
+957,G4NQ7,True,Bally Hoo,,,2018-05-08,2018-05-08
+958,G5LQ2,True,Wild Wild West / Lariat,,,2018-05-08,2018-05-08
+959,GrJQv,True,Action,,,2018-05-08,2018-05-08
+960,GR0W9,True,Paddock / Post Time,,,2018-05-08,2018-05-08
+961,GR7V3,True,Moon Shot / Astronaut,,,2018-05-08,2018-05-08
+962,GRbWj,True,Target Pool / Mini Pool,,,2018-05-08,2018-05-08
+963,G4XQE,True,On Beam,,,2018-05-08,2018-05-08
+964,GRDQ1,True,Gator / Sheba / Campus Queen,,,2018-05-08,2018-05-08
+965,G5YQK,True,Smart Set,,,2018-05-08,2018-05-08
+966,GrOQ1,True,College Queens / Airport,,,2018-05-08,2018-05-08
+967,G5KQV,True,Suspense,,,2018-05-08,2018-05-08
+968,G4k30,True,Op-Pop-Pop,,,2018-05-08,2018-05-08
+969,G4ZQv,True,Spin-A-Card / Hearts and Spades,,,2018-05-08,2018-05-08
+970,G4eqP,True,Miss-O / Cue-T,,,2018-05-08,2018-05-08
+971,GRQQZ,True,Pirate Gold,,,2018-05-08,2018-05-08
+972,G5zkk,True,Serenade,,,2018-05-08,2018-05-08
+973,Grlwk,True,Poker,,,2018-05-08,2018-05-08
+974,G5p2Y,True,Cosmos,,,2018-05-08,2018-05-08
+975,G4djP,True,Jolly Roger,,,2018-05-08,2018-05-08
+976,GrEQy,True,Subway / Cross Town,,,2018-05-08,2018-05-08
+977,GRov2,True,Flower's Child,,,2018-05-09,2018-05-09
+978,G41nY,True,Hit Line,,,2018-05-09,2018-05-09
+979,G5WQN,True,Four Seasons,,,2018-05-09,2018-05-09
+980,G5nx7,True,Cabaret,,,2018-05-09,2018-05-09
+981,G4j8k,True,Domino / PlayMates,,,2018-05-09,2018-05-09
+982,G4q68,True,MiniZag,,,2018-05-09,2018-05-09
+983,GR937,True,Big Jack,,,2018-05-09,2018-05-09
+984,Gryk2,True,Playtime,,,2018-05-09,2018-05-09
+985,GrPkj,True,Pit Stop,,,2018-05-09,2018-05-09
+986,GRVk8,True,Doozie / Daffie,,,2018-05-09,2018-05-09
+987,G48Xw,True,Hayburners II,,,2018-05-09,2018-05-09
+988,G43zw,True,RockMakers,,,2018-05-09,2018-05-09
+989,GRwqx,True,Fun Land / Fun Park,,,2018-05-09,2018-05-09
+990,GRBDx,True,Schuss,,,2018-05-09,2018-05-09
+991,G4x98,True,Stage Coach,,,2018-05-09,2018-05-09
+992,G5vjP,True,Joker,,,2018-05-09,2018-05-09
+993,G42XZ,True,Student Prince,,,2018-05-09,2018-05-09
+994,GR6X2,True,Safari,,,2018-05-09,2018-05-09
+995,GrND7,True,Dixieland,,,2018-05-09,2018-05-09
+996,GRLD2,True,Royal Guard / Palace Guard,,,2018-05-09,2018-05-09
+997,Grlk9,True,Spin Wheel,,,2018-05-09,2018-05-09
+998,G5pzQ,True,Lady Luck,,,2018-05-09,2018-05-09
+999,G4dQD,True,Comics,,,2018-05-09,2018-05-09
+1000,GrEDX,True,Elite Guard,,,2018-05-09,2018-05-09
+1001,GRop9,True,Ding Dong / Smarty,,,2018-05-09,2018-05-09
+1002,G41XE,True,Racers,,,2018-05-09,2018-05-09
+1003,G5WkJ,True,Caravan,,,2018-05-09,2018-05-09
+1004,G5nlX,True,Gun Smoke,,,2018-05-09,2018-05-09
+1005,G4jZo,True,Dogies,,,2018-05-09,2018-05-09
+1006,G4qEl,True,Touchdown / Kickoff,,,2018-05-09,2018-05-09
+1007,GR9DK,True,Derby Day,,,2018-05-09,2018-05-09
+1008,GryyO,True,Surfers,,,2018-05-09,2018-05-09
+1009,GrPkZ,True,Sing Along / Melody,,,2018-05-09,2018-05-09
+1010,GRVkQ,True,Sea Side,,,2018-05-09,2018-05-09
+1011,G48XX,True,Surf Side,,,2018-05-09,2018-05-09
+1012,G43z8,True,Playboy,,,2018-05-09,2018-05-09
+1013,GRwqD,True,Beat Time,,,2018-05-09,2018-05-09
+1014,GRBDj,True,Apollo / Blast Off,,,2018-05-09,2018-05-09
+1015,G4x9D,True,The Wiggler,,,2018-05-09,2018-05-09
+1016,G5vjW,True,Crown Soccer Special,,,2018-05-09,2018-05-09
+1017,G42XB,True,Rocket III,,,2018-05-09,2018-05-09
+1018,GR6XE,True,Hi-Score / Super Score,,,2018-05-10,2018-05-10
+1019,GrND1,True,Twinky,,,2018-05-10,2018-05-10
+1020,GRLDP,True,West Club,,,2018-05-10,2018-05-10
+1021,G4JDn,True,Boot-A-Ball,,,2018-05-10,2018-05-10
+1022,G50XN,True,Shangri-La,,,2018-05-10,2018-05-10
+1023,G57xp,True,Magic City / Magic Town,,,2018-05-10,2018-05-10
+1024,G5bYP,True,Beatniks,,,2018-05-10,2018-05-10
+1025,GrXex,True,Capersville,,,2018-05-10,2018-05-10
+1026,G5DeY,True,Dancing Lady,,,2018-05-10,2018-05-10
+1027,GRYey,True,Casanova,,,2018-05-10,2018-05-10
+1028,G4Oeq,True,Rally Girl,,,2018-05-10,2018-05-10
+1029,GRKeO,True,Bazaar,,,2018-05-10,2018-05-10
+1030,GrkYy,True,Loop the Loop,,,2018-05-10,2018-05-10
+1031,GrZex,True,Hot Line / Big Strike,,,2018-05-10,2018-05-10
+1032,GreYQ,True,Six Shooter,,,2018-05-10,2018-05-10
+1033,G5Qed,True,Kicker,,,2018-05-10,2018-05-10
+1034,GRzow,True,Buckaroo / Cow Poke,,,2018-05-10,2018-05-10
+1035,G4lY9,True,Festival,,,2018-05-10,2018-05-10
+1036,GRpYQ,True,Central Park / Hurdy Gurdy,,,2018-05-10,2018-05-10
+1037,GrdYD,True,Mayfair / Hyde Park,,,2018-05-10,2018-05-10
+1038,G4EeX,True,Full House / Top Hand,,,2018-05-10,2018-05-10
+1039,G5oO9,True,A-Go-Go,,,2018-05-10,2018-05-10
+1040,Gr1PE,True,Gold Rush,,,2018-05-10,2018-05-10
+1041,GRWeJ,True,Six Sticks,,,2018-05-10,2018-05-10
+1042,GRnYX,True,Ice-Revue / Ice Show,,,2018-05-10,2018-05-10
+1043,GrjYo,True,Masquerade,,,2018-05-10,2018-05-10
+1044,GrqYl,True,Wild Wheels,,,2018-05-10,2018-05-10
+1045,G592K,True,8 Ball,,,2018-05-10,2018-05-10
+1046,G4yEO,True,Paradise / Pleasure Isle,,,2018-05-10,2018-05-10
+1047,G4PeZ,True,Messalina,,,2018-05-10,2018-05-10
+1048,G5VeQ,True,Hairy Singers,,,2018-05-10,2018-05-10
+1049,Gr8vX,True,Bull's Eye,,,2018-05-10,2018-05-10
+1050,Gr388,True,Blue Ribbon,,,2018-05-10,2018-05-10
+1051,G5wpD,True,Teacher's Pet,,,2018-05-10,2018-05-10
+1052,G5BQj,True,Lucky Strike / Bowl A Strike,,,2018-05-10,2018-05-10
+1053,GrxdD,True,Bank-A-Ball / Flipper Pool,,,2018-05-11,2018-05-11
+1054,GRvlW,True,Discotek,,,2018-05-11,2018-05-11
+1055,Gr2VB,True,Big Chief,,,2018-05-11,2018-05-11
+1056,G56BE,True,Aces High,,,2018-05-11,2018-05-11
+1057,G4Ne1,True,Kings & Queens,,,2018-05-11,2018-05-11
+1058,G5LeP,True,Trio,,,2018-05-11,2018-05-11
+1059,GrJen,True,Dodge City,,,2018-05-11,2018-05-11
+1060,GR0yN,True,50/50,,,2018-05-11,2018-05-11
+1061,GR7Lp,True,Hula-Hula,,,2018-05-11,2018-05-11
+1062,GRb9P,True,Magic Circle,,,2018-05-12,2018-05-12
+1063,G4Xlx,True,Pot 'O' Gold,,,2018-05-12,2018-05-12
+1064,GRDjY,True,Moulin Rouge,,,2018-05-12,2018-05-12
+1065,G5Ypy,True,Hi Dolly,,,2018-05-12,2018-05-12
+1066,GrOvq,True,Eager Beaver,,,2018-05-12,2018-05-12
+1067,G5K3O,True,Alpine Club / Ski Club,,,2018-05-12,2018-05-12
+1068,G4kvy,True,Band Wagon,,,2018-05-12,2018-05-12
+1069,G4Zdx,True,Thoro-Bred,,,2018-05-12,2018-05-12
+1070,G4eVQ,True,Joly Captain,,,2018-05-12,2018-05-12
+1071,GRQ6d,True,Sky·Line,,,2018-05-12,2018-05-12
+1072,G5zDw,True,Pretty Baby,,,2018-05-12,2018-05-12
+1073,Grl29,True,Curling,,,2018-05-12,2018-05-12
+1074,G5pJQ,True,Bullfight,,,2018-05-12,2018-05-12
+1075,G4dPD,True,Landing on Venus,,,2018-05-12,2018-05-12
+1076,GrEqX,True,Saloon,,,2018-05-12,2018-05-12
+1077,GRoL9,True,Zig Zag / Wing Ding,,,2018-05-12,2018-05-12
+1078,G41BE,True,Bus Stop,,,2018-05-12,2018-05-12
+1079,G5WbJ,True,Happy Clown,,,2018-05-12,2018-05-12
+1080,G5nNX,True,Rodeo,,,2018-05-12,2018-05-12
+1081,G4jxo,True,Whoopee,,,2018-05-12,2018-05-12
+1082,G4q0l,True,South Pacific,,,2018-05-12,2018-05-12
+1083,GR90K,True,Harvest / Hay-Ride,,,2018-05-12,2018-05-12
+1084,GryDO,True,Sea Shore,,,2018-05-12,2018-05-12
+1085,GrP2Z,True,River Boat,,,2018-05-12,2018-05-12
+1086,GRV7Q,True,North Star,,,2018-05-12,2018-05-12
+1087,G48JX,True,Big Day,,,2018-05-12,2018-05-12
+1088,G43v8,True,Stop 'N' Go,,,2018-05-12,2018-05-12
+1089,GRwDD,True,Majorettes,,,2018-05-12,2018-05-12
+1090,GRBWj,True,2 in 1,,,2018-05-12,2018-05-12
+1091,G4xYD,True,Bowling Queen,,,2018-05-12,2018-05-12
+1092,G5vDW,True,Heat Wave,,,2018-05-12,2018-05-12
+1093,G42xB,True,Flying Turns,,,2018-05-12,2018-05-12
+1094,GR6NE,True,Bonanza,,,2018-05-12,2018-05-12
+1095,GrNx1,True,Grand Tour / Happy Tour,,,2018-05-12,2018-05-12
+1096,GRLwP,True,San Francisco,,,2018-05-12,2018-05-12
+1097,Grl21,True,Mad World,,,2018-05-12,2018-05-12
+1098,G5pJd,True,Palooka,,,2018-05-12,2018-05-12
+1099,G4dVX,True,Sky Divers,,,2018-05-12,2018-05-12
+1100,GrEyL,True,World Fair,,,2018-05-12,2018-05-12
+1101,GRoJk,True,Soccer,,,2018-05-12,2018-05-12
+1102,G41e6,True,3-In-Line / Bongo,,,2018-05-12,2018-05-12
+1103,G5Wl0,True,Monte Carlo,,,2018-05-12,2018-05-12
+1104,G5nLZ,True,Oh Boy,,,2018-05-12,2018-05-12
+1105,G4jvD,True,Ship-Mates,,,2018-05-12,2018-05-12
+1106,G4q73,True,The Three Musketeers,,,2018-05-12,2018-05-12
+1107,GR9el,True,Big Top,,,2018-05-12,2018-05-12
+1108,Gry16,True,Hockey Girl,,,2018-05-12,2018-05-12
+1109,GrPNp,True,Royal Flash,,,2018-05-12,2018-05-12
+1110,GRVXD,True,Mustang,,,2018-05-12,2018-05-12
+1111,G48e6,True,Beat the Clock,,,2018-05-12,2018-05-12
+1112,G43ek,True,Gigi,,,2018-05-12,2018-05-12
+1113,GRwEJ,True,Star-Jet,,,2018-05-12,2018-05-12
+1114,GRBjX,True,Colorama,,,2018-05-12,2018-05-12
+1115,G4xo0,True,Hootenanny,,,2018-05-12,2018-05-12
+1116,G5vdo,True,Handicap,,,2018-05-12,2018-05-12
+1117,G42eb,True,Bronco,,,2018-05-12,2018-05-12
+1118,GR6ex,True,Flying Chariots,,,2018-05-12,2018-05-12
+1119,GrN2w,True,Fire Cracker,,,2018-05-12,2018-05-12
+1120,GRLxN,True,Merry Widow,,,2018-05-12,2018-05-12
+1121,G4JwE,True,Sweet Hearts,,,2018-05-12,2018-05-12
+1122,G50e1,True,Big Daddy,,,2018-05-12,2018-05-12
+1123,G57eW,True,Race-Way,,,2018-05-12,2018-05-12
+1124,G5bzW,True,Poker Face,,,2018-05-12,2018-05-12
+1125,GrXpk,True,El Toro,,,2018-05-12,2018-05-12
+1126,G5D9e,True,Swing-Along,,,2018-05-12,2018-05-12
+1127,GRYdp,True,Cue-Tease,,,2018-05-12,2018-05-12
+1128,G4O66,True,Skill Pool,,,2018-05-12,2018-05-12
+1129,GRKB8,True,Square Head,,,2018-05-12,2018-05-12
+1130,Grk27,True,Swing Time,,,2018-05-12,2018-05-12
+1131,GrZE0,True,Go-Cart,,,2018-05-12,2018-05-12
+1132,Gre8z,True,Slick Chick,,,2018-05-12,2018-05-12
+1133,G5QLj,True,Jumpin' Jack's,,,2018-05-12,2018-05-12
+1134,GRzWL,True,Cross Country,,,2018-05-12,2018-05-12
+1135,G4l61,True,Big Deal,,,2018-05-12,2018-05-12
+1136,GRp0d,True,Moon Shot,,,2018-05-12,2018-05-12
+1137,GrdqX,True,Gaucho,,,2018-05-12,2018-05-12
+1138,G4EjL,True,Tom Tom,,,2018-05-12,2018-05-12
+1139,G5o2k,True,Happy Papeete,,,2018-05-12,2018-05-12
+1140,Gr1Q6,True,Toro,,,2018-05-12,2018-05-12
+1141,GRWz0,True,4 Roses,,,2018-05-12,2018-05-12
+1142,GRnvZ,True,Sun Valley,,,2018-05-12,2018-05-12
+1143,Grj3D,True,Arrowhead,,,2018-05-12,2018-05-12
+1144,GrqN3,True,Rack-A-Ball,,,2018-05-12,2018-05-12
+1145,G59Ql,True,Sunset,,,2018-05-12,2018-05-12
+1146,G4yl6,True,Flipper Cowboy,,,2018-05-12,2018-05-12
+1147,G4Pvp,True,Vagabond,,,2018-05-12,2018-05-12
+1148,G5V0D,True,Mardi Gras,,,2018-05-12,2018-05-12
+1149,Gr8Q6,True,Olympics,,,2018-05-12,2018-05-12
+1150,Gr3Qk,True,King Pin,,,2018-05-12,2018-05-12
+1151,G5wXJ,True,Preview,,,2018-05-12,2018-05-12
+1152,G5B1X,True,Valiant,,,2018-05-12,2018-05-12
+1153,GrxD0,True,"Friendship ""7""",,,2018-05-12,2018-05-12
+1154,GRvbo,True,Cover Girl,,,2018-05-12,2018-05-12
+1155,Gr2Qb,True,Fashion Show,,,2018-05-12,2018-05-12
+1156,G56Qx,True,Trade Winds,,,2018-05-12,2018-05-12
+1157,G4NBw,True,Coquette,,,2018-05-12,2018-05-12
+1158,G5L3N,True,Tropic Isle,,,2018-05-12,2018-05-12
+1159,GrJVE,True,Flipper Clown,,,2018-05-12,2018-05-12
+1160,GR0Q1,True,3 Coins,,,2018-05-12,2018-05-12
+1161,GR7zW,True,Karting,,,2018-05-12,2018-05-12
+1162,GRbnW,True,Beach Games,,,2018-05-12,2018-05-12
+1163,G4Xbk,True,Liberty Belle,,,2018-05-12,2018-05-12
+1164,GRDne,True,Twist,,,2018-05-12,2018-05-12
+1165,G5YXp,True,Space Ship,,,2018-05-12,2018-05-12
+1166,GrOx6,True,Egg Head,,,2018-05-12,2018-05-12
+1167,G5K88,True,Metro,,,2018-05-12,2018-05-12
+1168,G4kw7,True,Aloha,,,2018-05-12,2018-05-12
+1169,G4ZD0,True,Kismet,,,2018-05-12,2018-05-12
+1170,G4e9z,True,Flipper Fair,,,2018-05-12,2018-05-12
+1171,GRQ2j,True,Reserve,,,2018-05-12,2018-05-12
+1172,G5zpL,True,Skill-Ball,,,2018-05-12,2018-05-12
+1173,GrlB1,True,Corral,,,2018-05-12,2018-05-12
+1174,G5p6d,True,Lancers,,,2018-05-12,2018-05-12
+1175,G4dvX,True,Double Barrel,,,2018-05-12,2018-05-12
+1176,GrEvL,True,Big Casino,,,2018-05-12,2018-05-12
+1177,GRoYk,True,Ten Spot,,,2018-05-12,2018-05-12
+1178,G41Y6,True,Flying Circus,,,2018-05-12,2018-05-12
+1179,G5WW0,True,Hollywood,,,2018-05-12,2018-05-12
+1180,G5nDZ,True,Flipper Parade,,,2018-05-12,2018-05-12
+1181,G4j0D,True,Highways,,,2018-05-12,2018-05-12
+1182,G4qp3,True,Show Boat,,,2018-05-12,2018-05-12
+1183,GR9nl,True,Oklahoma,,,2018-05-12,2018-05-12
+1184,Gryq6,True,Caravelle,,,2018-05-12,2018-05-12
+1185,GrPYp,True,Bo Bo,,,2018-05-12,2018-05-12
+1186,GRV1D,True,Foto Finish,,,2018-05-12,2018-05-12
+1187,G48W6,True,Sunday on Ice,,,2018-05-12,2018-05-12
+1188,G43pk,True,Samba,,,2018-05-12,2018-05-12
+1189,GRwnJ,True,Bowling Flipper,,,2018-05-12,2018-05-12
+1190,GRBwX,True,Magic Clock,,,2018-05-12,2018-05-12
+1191,G4xj0,True,Merry-Go-Round,,,2018-05-12,2018-05-12
+1192,G5vWo,True,Black Jack,,,2018-05-12,2018-05-12
+1193,G42lb,True,Viking,,,2018-05-12,2018-05-12
+1194,GR6ox,True,Kewpie Doll,,,2018-05-12,2018-05-12
+1195,GrNXw,True,Flipper,,,2018-05-12,2018-05-12
+1196,GRL7N,True,Jungle,,,2018-05-12,2018-05-12
+1197,Grlb3,True,Music Man,,,2018-05-12,2018-05-12
+1198,G5plO,True,Melody Lane,,,2018-05-12,2018-05-12
+1199,G4dvK,True,Hot Diggity,,,2018-05-12,2018-05-12
+1200,GrEvQ,True,Fun House,,,2018-05-13,2018-05-13
+1201,GRoYp,True,Spot-A-Card,,,2018-05-13,2018-05-13
+1202,G41YP,True,Captain Kidd,,,2018-05-13,2018-05-13
+1203,G5WWb,True,Darts,,,2018-05-13,2018-05-13
+1204,G5nDL,True,Dancing Dolls,,,2018-05-13,2018-05-13
+1205,G4j03,True,Lite-A-Card,,,2018-05-13,2018-05-13
+1206,G4qpp,True,Serenade,,,2018-05-13,2018-05-13
+1207,GR9nJ,True,Texan,,,2018-05-13,2018-05-13
+1208,Gryqo,True,Beauty Queens,,,2018-05-13,2018-05-13
+1209,GrPYn,True,Wagon Train,,,2018-05-13,2018-05-13
+1210,GRV1N,True,Nags,,,2018-05-13,2018-05-13
+1211,G48W0,True,21,,,2018-05-13,2018-05-13
+1212,G43pX,True,Hi Straight,,,2018-05-13,2018-05-13
+1213,GRwNV,True,Golden Gloves,,,2018-05-13,2018-05-13
+1214,GRBpL,True,World Beauties,,,2018-05-13,2018-05-13
+1215,G4xLZ,True,Seven Seas,,,2018-05-13,2018-05-13
+1216,G5v6Y,True,Fiesta,,,2018-05-13,2018-05-13
+1217,G42BY,True,Rocket,,,2018-05-13,2018-05-13
+1218,GR66d,True,Lightning Ball,,,2018-05-13,2018-05-13
+1219,GrNVz,True,Mademoiselle,,,2018-05-13,2018-05-13
+1220,GRLy6,True,Universe,,,2018-05-13,2018-05-13
+1221,G4JqB,True,Miss Annabelle,,,2018-05-13,2018-05-13
+1222,G503n,True,Sweet Sioux,,,2018-05-13,2018-05-13
+1223,G57NK,True,Sea Wolf,,,2018-05-13,2018-05-13
+1224,G5bpE,True,Around the World,,,2018-05-13,2018-05-13
+1225,GrXLd,True,Atlas,,,2018-05-13,2018-05-13
+1226,G5DEb,True,Hi-Diver,,,2018-05-13,2018-05-13
+1227,GRYJD,True,Crossword,,,2018-05-13,2018-05-13
+1228,G4O8o,True,Race Time,,,2018-05-13,2018-05-13
+1229,GRK9W,True,Golden Bells,,,2018-05-13,2018-05-13
+1230,Grk9J,True,Straight Shooter,,,2018-05-13,2018-05-13
+1231,GrZ0J,True,Spot-Pool,,,2018-05-13,2018-05-13
+1232,GreoN,True,Tic-Tac-Toe,,,2018-05-13,2018-05-13
+1233,G5Qwv,True,Double Action,,,2018-05-13,2018-05-13
+1234,GRz0q,True,3-D,,,2018-05-13,2018-05-13
+1235,G4ly3,True,Club House,,,2018-05-13,2018-05-13
+1236,GRp3O,True,Sittin' Pretty,,,2018-05-13,2018-05-13
+1237,GrdEK,True,Contest,,,2018-05-13,2018-05-13
+1238,G4EoQ,True,Gusher,,,2018-05-13,2018-05-13
+1239,G5o8p,True,Sunshine,,,2018-05-13,2018-05-13
+1240,Gr1wP,True,Gondolier,,,2018-05-13,2018-05-13
+1241,GRWNb,True,Casino,,,2018-05-13,2018-05-13
+1242,GRnVL,True,4 Star,,,2018-05-13,2018-05-13
+1243,Grjq3,True,Turf Champ,,,2018-05-13,2018-05-13
+1244,Grqwp,True,Satellite,,,2018-05-13,2018-05-13
+1245,G59JJ,True,Roto Pool,,,2018-05-13,2018-05-13
+1246,G4yJo,True,Picnic,,,2018-05-13,2018-05-13
+1247,G4P3n,True,Rocket Ship,,,2018-05-13,2018-05-13
+1248,G5V6N,True,Fun-Fair,,,2018-05-13,2018-05-13
+1249,Gr8L0,True,Kick-Off,,,2018-05-13,2018-05-13
+1250,Gr3xX,True,Top Hat,,,2018-05-13,2018-05-13
+1251,G5wdV,True,Brite Star,,,2018-05-13,2018-05-13
+1252,G5B3L,True,Flying Aces,,,2018-05-13,2018-05-13
+1253,GrxEZ,True,Eleven Belles,,,2018-05-13,2018-05-13
+1254,GRvpY,True,Criss Cross,,,2018-05-13,2018-05-13
+1255,Gr2KY,True,Show Boat,,,2018-05-13,2018-05-13
+1256,G56Ed,True,Whirl-Wind,,,2018-05-13,2018-05-13
+1257,G4Nbz,True,Jig Saw,,,2018-05-13,2018-05-13
+1258,G5L06,True,Straight Flush,,,2018-05-13,2018-05-13
+1259,GrJLB,True,Steeple-Chase,,,2018-05-13,2018-05-13
+1260,GR0Yn,True,Falstaff,,,2018-05-13,2018-05-13
+1261,GR7oK,True,Kings,,,2018-05-13,2018-05-13
+1262,GRb8E,True,Reno,,,2018-05-13,2018-05-13
+1263,G4Xod,True,Silver,,,2018-05-13,2018-05-13
+1264,GRDBb,True,World Champ,,,2018-05-13,2018-05-13
+1265,G5Y1D,True,Naples,,,2018-05-13,2018-05-13
+1266,GrOXo,True,Carnival,,,2018-05-13,2018-05-13
+1267,G5KJW,True,Balls-A-Poppin / Circus,,,2018-05-13,2018-05-13
+1268,G4kLJ,True,Super Circus,,,2018-05-13,2018-05-13
+1269,G4ZWJ,True,Continental Cafe,,,2018-05-13,2018-05-13
+1270,G4ezN,True,Royal Flush,,,2018-05-13,2018-05-13
+1271,GRQYv,True,Majestic,,,2018-05-13,2018-05-13
+1272,G5z1q,True,Arrow Head,,,2018-05-13,2018-05-13
+1273,GrlJ3,True,Ace High,,,2018-05-13,2018-05-13
+1274,G5pXO,True,Flag-Ship,,,2018-05-13,2018-05-13
+1275,G4dwK,True,Gay Paree,,,2018-05-13,2018-05-13
+1276,GrExQ,True,Cue Ball,,,2018-05-13,2018-05-13
+1277,GRobp,True,Rainbow,,,2018-05-13,2018-05-13
+1278,G41OP,True,Sea Belles / Fair Lady,,,2018-05-13,2018-05-13
+1279,G5WEb,True,Register,,,2018-05-13,2018-05-13
+1280,G5n7L,True,Shamrock,,,2018-05-13,2018-05-13
+1281,G4jN3,True,Perky,,,2018-05-13,2018-05-13
+1282,G4qDp,True,Starfire,,,2018-05-13,2018-05-13
+1283,GR9WJ,True,Auto Race,,,2018-05-13,2018-05-13
+1284,Gryoo,True,Capri,,,2018-05-13,2018-05-13
+1285,GrPDn,True,Classy Bowler,,,2018-05-13,2018-05-13
+1286,GRVdN,True,Blondie,,,2018-05-13,2018-05-13
+1287,G4810,True,Toreador,,,2018-05-13,2018-05-13
+1288,G43lX,True,Super Score,,,2018-05-13,2018-05-13
+1289,GRwPV,True,Surf Rider,,,2018-05-13,2018-05-13
+1290,GRBbL,True,Big League Baseball,,,2018-05-13,2018-05-13
+1291,G4xVZ,True,Sluggin' Champ,,,2018-05-13,2018-05-13
+1292,G5vyY,True,Derby Day,,,2018-05-13,2018-05-13
+1293,G42yY,True,Score-Board,,,2018-05-13,2018-05-13
+1294,GR63d,True,Piccadilly,,,2018-05-13,2018-05-13
+1295,GrN1z,True,Red White Blue,,,2018-05-13,2018-05-13
+1296,GRLE6,True,Gladiator,,,2018-05-13,2018-05-13
+1297,GrlpL,True,Tim-Buc-Tu,,,2018-05-13,2018-05-13
+1298,G5p1j,True,Easy Aces,,,2018-05-13,2018-05-13
+1299,G4dbe,True,Frontiersman,,,2018-05-13,2018-05-13
+1300,GrEYP,True,Marathon,,,2018-05-13,2018-05-13
+1301,GRoo7,True,Wishing Well,,,2018-05-13,2018-05-13
+1302,G419y,True,Regatta,,,2018-05-13,2018-05-13
+1303,G5W8D,True,Tournament,,,2018-05-13,2018-05-13
+1304,G5nE1,True,Snafu,,,2018-05-13,2018-05-13
+1305,G4jk1,True,Can Can,,,2018-05-13,2018-05-13
+1306,G4qWJ,True,Circus Wagon,,,2018-05-13,2018-05-13
+1307,GR9xv,True,Sweet Add-A-Line,,,2018-05-13,2018-05-13
+1308,Gry8L,True,Southern Belle,,,2018-05-13,2018-05-13
+1309,GrPnx,True,Jubilee,,,2018-05-13,2018-05-13
+1310,GRVVb,True,Band Wagon,,,2018-05-13,2018-05-13
+1311,G48B7,True,Smoke Signal,,,2018-05-13,2018-05-13
+1312,G43Pj,True,Three Deuces,,,2018-05-13,2018-05-13
+1313,GRwPK,True,Wonderland,,,2018-05-13,2018-05-13
+1314,GRBbJ,True,Poker Alley,,,2018-05-13,2018-05-13
+1315,G4xV9,True,Peter Pan,,,2018-05-13,2018-05-13
+1316,G5vyl,True,Duette,,,2018-05-13,2018-05-13
+1317,G42yx,True,Race the Clock,,,2018-05-13,2018-05-13
+1318,GR63e,True,Gypsy Queen,,,2018-05-13,2018-05-13
+1319,GrN1B,True,Twin Bill,,,2018-05-13,2018-05-13
+1320,GRLE7,True,Stage Coach,,,2018-05-13,2018-05-13
+1321,G4Jpq,True,Diamond Lill,,,2018-05-13,2018-05-13
+1322,G50qY,True,Spitfire,,,2018-05-13,2018-05-13
+1323,G57ww,True,Lulu,,,2018-05-13,2018-05-13
+1324,G5b0Z,True,Colors,,,2018-05-13,2018-05-13
+1325,GrX36,True,Super Jumbo / Deluxe Jumbo,,,2018-05-13,2018-05-13
+1326,G5DD0,True,Dragonette / 4-Belles,,,2018-05-13,2018-05-13
+1327,GRY0B,True,Lady Luck,,,2018-05-13,2018-05-13
+1328,G4O30,True,Cue-Tee / Star Pool,,,2018-05-13,2018-05-13
+1329,GRKyL,True,Gold Star,,,2018-05-13,2018-05-13
+1330,Grkjn,True,Slugfest,,,2018-05-13,2018-05-13
+1331,GrZ7y,True,Daffy Derby,,,2018-05-14,2018-05-14
+1332,Gred6,True,Daisy May,,,2018-05-14,2018-05-14
+1333,G5QBX,True,Big Ben,,,2018-05-14,2018-05-14
+1334,GRzLZ,True,Hawaiian Beauty,,,2018-05-14,2018-05-14
+1335,G4lqL,True,Jockey Club,,,2018-05-14,2018-05-14
+1336,GRpVj,True,Screamo,,,2018-05-14,2018-05-14
+1337,Grdpe,True,Mystic Marvel,,,2018-05-14,2018-05-14
+1338,G4E1P,True,Skyway,,,2018-05-14,2018-05-14
+1339,G5oP7,True,Lovely Lucy,,,2018-05-14,2018-05-14
+1340,Gr12y,True,Green Pastures,,,2018-05-14,2018-05-14
+1341,GRWLD,True,Thunderbird,,,2018-05-14,2018-05-14
+1342,GRny1,True,Nine Sisters,,,2018-05-14,2018-05-14
+1343,Grjn1,True,Dealer,,,2018-05-14,2018-05-14
+1344,Grq8J,True,Lazy-Q,,,2018-05-14,2018-05-14
+1345,G59Xv,True,Arabian Knights,,,2018-05-14,2018-05-14
+1346,G4yNL,True,Struggle Buggies,,,2018-05-14,2018-05-14
+1347,G4Pwx,True,Gun Club,,,2018-05-14,2018-05-14
+1348,G5VNb,True,Army Navy,,,2018-05-14,2018-05-14
+1349,Gr8b7,True,Pin Wheel,,,2018-05-14,2018-05-14
+1350,Gr3Nj,True,Shindig,,,2018-05-14,2018-05-14
+1351,G5w2K,True,C.O.D.,,,2018-05-14,2018-05-14
+1352,G5BdJ,True,Grand Champion,,,2018-05-14,2018-05-14
+1353,Grx69,True,Poker Face,,,2018-05-14,2018-05-14
+1354,GRvvl,True,Palisades,,,2018-05-14,2018-05-14
+1355,Gr26x,True,Fairway,,,2018-05-14,2018-05-14
+1356,G560e,True,Marble Queen,,,2018-05-14,2018-05-14
+1357,G4N8B,True,Guys Dolls,,,2018-05-14,2018-05-14
+1358,G5LP7,True,Times Square,,,2018-05-14,2018-05-14
+1359,GrJ9q,True,Grand Slam,,,2018-05-14,2018-05-14
+1360,GR0vY,True,Starlite,,,2018-05-14,2018-05-14
+1361,GR77w,True,Quintette,,,2018-05-14,2018-05-14
+1362,GRbZZ,True,Flying High,,,2018-05-14,2018-05-14
+1363,G4XJ6,True,Silver Skates,,,2018-05-14,2018-05-14
+1364,GRDo0,True,Electric Hockey,,,2018-05-14,2018-05-14
+1365,G5YNB,True,Queen of Hearts,,,2018-05-14,2018-05-14
+1366,GrOP0,True,Jumpin' Jacks,,,2018-05-14,2018-05-14
+1367,G5KjL,True,Twenty Grand,,,2018-05-14,2018-05-14
+1368,G4kon,True,Disk Jockey,,,2018-05-14,2018-05-14
+1369,G4ZLy,True,Coronation,,,2018-05-14,2018-05-14
+1370,G4eZ6,True,400,,,2018-05-14,2018-05-14
+1371,GRQzX,True,Chinatown,,,2018-05-14,2018-05-14
+1372,G5zvZ,True,Skill-Pool,,,2018-05-14,2018-05-14
+1373,Grl1L,True,Happy Days,,,2018-05-14,2018-05-14
+1374,G5pqj,True,Four Corners,,,2018-05-15,2018-05-15
+1375,G4dke,True,8 Ball,,,2018-05-15,2018-05-15
+1376,GrEdP,True,Hong Kong,,,2018-05-15,2018-05-15
+1377,GRoj7,True,Paratrooper,,,2018-05-15,2018-05-15
+1378,G41xy,True,Big Hit,,,2018-05-15,2018-05-15
+1379,G5W2D,True,Caravan,,,2018-05-15,2018-05-15
+1380,G5nn1,True,Quartette / Four Stars,,,2018-05-15,2018-05-15
+1381,G4jE1,True,Olympics,,,2018-05-15,2018-05-15
+1382,G4q9J,True,Domino,,,2018-05-15,2018-05-15
+1383,GR97v,True,Crossroads,,,2018-05-15,2018-05-15
+1384,GryxL,True,Majorettes,,,2018-05-15,2018-05-15
+1385,GrPVx,True,Hit 'N' Run,,,2018-05-15,2018-05-15
+1386,GRVvb,True,Springtime,,,2018-05-15,2018-05-15
+1387,G4807,True,Whiz Kids,,,2018-05-15,2018-05-15
+1388,G432j,True,Sportsman,,,2018-05-15,2018-05-15
+1389,GRwzK,True,Horsefeathers,,,2018-05-15,2018-05-15
+1390,GRBeJ,True,All-Star Basketball,,,2018-05-15,2018-05-15
+1391,G4xB9,True,Double Action,,,2018-05-15,2018-05-15
+1392,G5v3l,True,Niagara,,,2018-05-15,2018-05-15
+1393,G42vx,True,King Pin,,,2018-05-15,2018-05-15
+1394,GR6Le,True,Horseshoes,,,2018-05-15,2018-05-15
+1395,GrNyB,True,Arcade,,,2018-05-15,2018-05-15
+1396,GRLq7,True,Shoot the Moon,,,2018-05-15,2018-05-15
+1397,Grl1y,True,Sea Jockeys,,,2018-05-15,2018-05-15
+1398,G5pqX,True,Globe Trotter,,,2018-05-15,2018-05-15
+1399,G4dkb,True,Rose-Bowl,,,2018-05-15,2018-05-15
+1400,GrEd1,True,Spark Plugs,,,2018-05-15,2018-05-15
+1401,GRojj,True,Hayburners / Jalopy,,,2018-05-15,2018-05-15
+1402,G41xJ,True,Wild West,,,2018-05-15,2018-05-15
+1403,G5W7q,True,Glamor,,,2018-05-15,2018-05-15
+1404,G5neP,True,Snooks,,,2018-05-15,2018-05-15
+1405,G4jbP,True,Harvey,,,2018-05-15,2018-05-15
+1406,G4qo1,True,Mermaid,,,2018-05-15,2018-05-15
+1407,GR9EB,True,Cyclone,,,2018-05-15,2018-05-15
+1408,Gry2Q,True,Bomber,,,2018-05-15,2018-05-15
+1409,GrPP9,True,Control Tower,,,2018-05-15,2018-05-15
+1410,GRVJw,True,Happy-Go-Lucky,,,2018-05-15,2018-05-15
+1411,G48pZ,True,Stop and Go,,,2018-05-15,2018-05-15
+1412,G43XZ,True,Hits and Runs,,,2018-05-15,2018-05-15
+1413,GRwwl,True,Shoo Shoo,,,2018-05-15,2018-05-15
+1414,GRB6P,True,Thing,,,2018-05-15,2018-05-15
+1415,G4xx7,True,Minstrel Man,,,2018-05-15,2018-05-15
+1416,G5v8X,True,Tri-Score,,,2018-05-15,2018-05-15
+1417,G4273,True,Trigger,,,2018-05-15,2018-05-15
+1418,GR6Zq,True,Knock Out,,,2018-05-15,2018-05-15
+1419,GrNjq,True,Punchy,,,2018-05-15,2018-05-15
+1420,GRLoV,True,Double-Feature,,,2018-05-15,2018-05-15
+1421,G4JlO,True,Flying Saucers,,,2018-05-15,2018-05-15
+1422,G50NP,True,Red Shoes,,,2018-05-15,2018-05-15
+1423,G57Q0,True,Nifty,,,2018-05-15,2018-05-15
+1424,G5bye,True,Fighting Irish,,,2018-05-15,2018-05-15
+1425,GrXXB,True,Joker,,,2018-05-15,2018-05-15
+1426,G5D0d,True,Spot Bowler,,,2018-05-15,2018-05-15
+1427,GRYYZ,True,Oasis,,,2018-05-15,2018-05-15
+1428,G4O9Q,True,Rag Mop,,,2018-05-15,2018-05-15
+1429,GRKdD,True,The 4 Horsemen,,,2018-05-15,2018-05-15
+1430,GrkDY,True,Pinky,,,2018-05-15,2018-05-15
+1431,GrZKd,True,Harvest Time,,,2018-05-15,2018-05-15
+1432,GreB8,True,Rockettes,,,2018-05-15,2018-05-15
+1433,G5Q82,True,Playland!,,,2018-05-15,2018-05-15
+1434,GRzN9,True,Georgia,,,2018-05-15,2018-05-15
+1435,G4lOy,True,Canasta,,,2018-05-15,2018-05-15
+1436,GRpdX,True,Triplets,,,2018-05-15,2018-05-15
+1437,Grd3b,True,Judy,,,2018-05-15,2018-05-15
+1438,G4Eb1,True,Madison Square Gardens,,,2018-05-15,2018-05-15
+1439,G5olj,True,Jeanie,,,2018-05-15,2018-05-15
+1440,Gr1JJ,True,Mercury / Rocket,,,2018-05-15,2018-05-15
+1441,GWyqq,True,Buffalo Bill,,,2018-05-15,2018-05-15
+1442,GnPdP,True,Sweetheart,,,2018-05-15,2018-05-15
+1443,Gj6LP,True,Lucky Inning,,,2018-05-15,2018-05-15
+1444,GqZe1,True,Yuma Arizona,,,2018-05-15,2018-05-15
+1445,G9zpB,True,Bank-A-Ball,,,2018-05-15,2018-05-15
+1446,GyVBQ,True,Select-A-Card,,,2018-05-15,2018-05-15
+1447,GPBj9,True,Be-Bop,,,2018-05-15,2018-05-15
+1448,GV8Kw,True,Dreamy,,,2018-05-15,2018-05-15
+1449,G8ldZ,True,Just 21,,,2018-05-15,2018-05-15
+1450,G3EnZ,True,Supreme x Stern,,,2018-05-26,2018-05-26
+1451,GweVl,True,The Jetsons,,,2018-07-13,2018-07-13
+1452,GBLkP,True,Magic Girl,,,2018-07-13,2018-07-13
+1453,GxvQ7,True,Domino's Spectacular Pinball Adventure,,,2018-07-26,2018-07-26
+1454,GvBQX,True,Houdini: Master of Mystery,,,2018-07-26,2018-07-26
+1455,G2Ld3,True,Spider-Man (Home Edition),SM,,2018-07-30,2018-07-30
+1456,G6lnq,True,Deadpool,DP,,2018-08-09,2018-08-09
+1457,GN6Lq,True,Thunderbirds,,,2018-10-15,2018-10-15
+1458,GLWBV,True,Oktoberfest,,,2018-10-19,2018-10-19
+1459,GJ2YO,True,The Mafia,,,2018-10-21,2018-10-21
+1460,G0l8P,True,Beatles,,,2018-11-20,2018-11-20
+1461,G7Zp0,True,Super Mario Bros. Mushroom World,,,2018-12-06,2018-12-06
+1462,GbPde,True,The Munsters,,,2019-01-10,2019-01-10
+1463,GX29B,True,Shark,,,2019-03-09,2019-03-09
+1464,GD7Ld,True,Black Knight: Sword of Rage,BK:SR,,2019-03-26,2019-03-26
+1465,GYWBZ,True,Willy Wonka & The Chocolate Factory,WONKA,,2019-04-14,2019-04-14
+1466,GK17D,True,Jurassic Park,JP,,2019-07-26,2019-07-26
+1467,GkBPY,True,Cosmic Carnival,CC,,2019-07-28,2019-07-28
+1468,GZVOd,True,Elvira's House of Horrors,E:HoH,,2019-09-18,2019-09-18
+1469,Ge1L8,True,Retro Atomic Zombie Adventureland,RAZA,,2019-11-19,2019-11-19
+1470,GQKb2,True,Rick and Morty,RM,,2019-12-05,2019-12-05
+1471,Gzy89,True,Stranger Things,ST,,2019-12-23,2019-12-23
+1472,Glljy,True,Buttons and Bows,,,2020-01-15,2020-01-15
+1473,GpePX,True,Star Wars (Home Edition),SW,,2020-01-21,2020-01-21
+1474,Gd2Xb,True,Teenage Mutant Ninja Turtles,TMNT,,2020-06-06,2020-06-06
+1475,GEL31,True,Hot Wheels,HW,,2020-06-15,2020-06-15
+1476,GoEej,True,Heavy Metal,HM,,2020-06-15,2020-06-15
+1477,G18pJ,True,Heist,,,2020-07-19,2020-07-19
+1478,GWyyq,True,Legends of Valhalla,,,2020-07-20,2020-07-20
+1479,GnPPP,True,Goin' Nuts,,,2020-07-20,2020-07-20
+1480,Gj66P,True,Avengers: Infinity Quest,A:IQ,,2020-09-05,2020-09-05
+1481,GqZZ1,True,Guns N' Roses,GNR,,2020-10-05,2020-10-05
+1482,G9zzB,True,Celts,CELT,,2020-11-29,2020-11-29
+1483,GyVVQ,True,Humpty Dumpty,HD,,2020-12-08,2020-12-08
+1484,GPBB9,True,Cosmic Cart Racing,CCR,,2020-12-09,2020-12-09
+1485,GV88w,True,Cover Girl,,,2020-12-09,2020-12-09
+1486,G8llZ,True,Predator,,,2020-12-09,2020-12-09
+1487,Gweel,True,Led Zeppelin,LZ,,2020-12-15,2020-12-15
+1488,GBLLP,True,The Mandalorian,,,2021-05-13,2021-05-13
+1489,Gxvv7,True,Challenge Round,,,2021-05-25,2021-05-25
+1490,GvBBX,True,Impacto,,,2021-05-25,2021-05-25
+1491,G2LL3,True,The World Series,,,2021-06-08,2021-06-08
+1492,G6llq,True,Cannon Lagoon,CL,,2021-08-13,2021-08-13
+1493,GN66q,True,Shoot 'n Scoot,SnS,,2021-08-13,2021-08-13
+1494,GLWWV,True,Ranger in the Ruins,RITR,,2021-08-13,2021-08-13
+1495,Glllz,True,Barnyard,,,2021-08-13,2021-08-13
+1496,GpeeL,True,Lexy Lightspeed – Secret Agent Showdown,LL:SAS,,2021-08-13,2021-08-13
+1497,Gd22x,True,ROCs,,,2021-08-13,2021-08-13
+1498,GELLO,True,Heads Up!,,,2021-08-13,2021-08-13
+1499,GoEEx,True,Grand Slam Rally,,,2021-08-13,2021-08-13
+1500,G188W,True,Hoopin' It Up,,,2021-08-13,2021-08-13
+1501,GWyyZ,True,Silver Falls,,,2021-08-13,2021-08-13
+1502,GnPPx,True,Quest for Glory,,,2021-08-16,2021-08-16
+1503,Gj66Z,True,Halloween,,,2021-08-27,2021-08-27
+1504,GqZZY,True,Monterrey,,,2021-08-30,2021-08-30
+1505,G9zz0,True,Clown,,,2021-08-30,2021-08-30
+1506,GyVV1,True,Petaco,,,2021-08-30,2021-08-30
+1507,GPBBv,True,Screech,,,2021-08-30,2021-08-30
+1508,GV881,True,Krull,,,2021-08-30,2021-08-30
+1509,G8llL,True,Sorcerer's Apprentice,,,2021-09-01,2021-09-01
+1510,G3EEl,True,Manhattan,,,2021-09-04,2021-09-04
+1511,GweeP,True,Godzilla,GZ,,2021-09-14,2021-09-14
+1512,GBLLd,True,Ultraman: Kaiju Rumble (SE),,,2021-09-16,2021-09-16
+1513,GxvvB,True,Jurassic Park (Home Edition),JP,,2021-10-13,2021-10-13
+1514,GvBB8,True,The Flip Side,,,2021-11-16,2021-11-16
+1515,G2Lkd,True,Rush,RUSH,,2022-01-07,2022-01-07
+1516,G6lwl,True,Buccaneer,,,2022-02-16,2022-02-16
+1517,GN6WW,True,Weird Al's Museum of Natural Hilarity,WAL,,2022-02-25,2022-02-25
+1518,GLWLl,True,Super Canasta,,,2022-04-18,2022-04-18
+1519,GJ2o0,True,Toy Story 4,,,2022-04-30,2022-04-30
+1520,G0lop,True,Escape From The Megaverse,,,2022-07-13,2022-07-13
+1521,G7Znb,True,St. Louis,,,2022-07-14,2022-07-14
+1522,GbPo6,True,Stormy,,,2022-07-15,2022-07-15
+1523,GX2xO,True,Tennessee,,,2022-07-15,2022-07-15
+1524,GD7wl,True,Old Faithful,,,2022-07-19,2022-07-19
+1525,GYWOL,True,King Arthur and his Round Table,,,2022-07-19,2022-07-19
+1526,GO0EK,True,Jack 'N Jill,,,2022-07-19,2022-07-19
+1527,GK1Lv,True,Olde King Cole,,,2022-07-19,2022-07-19
+1528,GkBXQ,True,Alice in Wonderland,,,2022-07-19,2022-07-19
+1529,GZV2Y,True,College Daze,,,2022-07-19,2022-07-19
+1530,Ge1Dy,True,James Bond 007 60th Anniversary (LE),007,,2022-10-05,2022-10-05
+1531,GQKyP,True,James Bond 007,007,,2022-10-05,2022-10-05
+1532,Gzybj,True,One-Two-Three,,,2022-12-18,2022-12-18
+1533,GllPz,True,Scooby Doo,SD,,2023-02-19,2023-02-19
+1534,GpeoL,True,Foo Fighters,,,2023-03-02,2023-03-02
+1535,Gd2ox,True,The Godfather,,,2023-03-08,2023-03-08
+1536,GELkO,True,Queen,,,2023-03-13,2023-03-13
+1537,GoEkx,True,Pulp Fiction,,,2023-03-13,2023-03-13
+1538,G187W,True,Final Resistance,,,2023-03-14,2023-03-14
+1539,GWyoZ,True,This is Spinal Tap,,,2023-03-14,2023-03-14
+1540,Gj6PZ,True,Galactic Tank Force,,,2023-03-22,2023-03-22
+1541,G9z10,True,Flipper Foxtrot Rhythm Explosion,,,2023-03-31,2023-03-31
+1542,GyVb1,True,Drained,,,2023-03-31,2023-03-31
+1543,GPBKv,True,Rainbow,,,2023-04-18,2023-04-18
+1544,GV8j1,True,Space Hunt,SH,,2023-06-07,2023-06-07
+1545,G8lwL,True,Punny Factory,,,2023-06-11,2023-06-11
+1546,G3EBl,True,Venom,,,2023-07-20,2023-07-20
+1547,GwevP,True,Three Musketeers,,,2023-08-02,2023-08-02
+1548,GBL7d,True,Terrific Lake,,,2023-09-05,2023-09-05
