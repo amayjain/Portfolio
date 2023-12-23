@@ -1,0 +1,53 @@
+---
+title: "Data Exploration"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+batters <- read.csv("Batters_War.csv")
+win_percentage <- read.csv("Team_Win%.csv")
+team_batters <- read.csv("Team_Total_Batter_War.csv")
+```
+
+```{r}
+names <- c("ATL", "HOU", "TBR", "PHI", "LAD", "TOR", "MIN", "TEX", "MIL", "SEA", 
+           "SDP", "BAL", "ARI", "NYY", "CHC", "BOS", "MIA", "CLE", "NYM", "SFG", 
+           "STL", "DET", "CIN", "PIT", "OAK", "KCR", "LAA", "CHW", "WSN", "COL")
+win_percentage$names <- names
+```
+
+```{r}
+# sort(unique(batters$Team))
+```
+
+```{r}
+win_percent_name_ordered <- win_percentage[order(win_percentage$names),]$Win.
+team_war_name_ordered <- team_batters[order(team_batters$Team),]$WAR
+```
+
+```{r}
+war_vs_wins <- lm(win_percent_name_ordered ~ team_war_name_ordered)
+cor(win_percent_name_ordered, team_war_name_ordered)
+```
+
+```{r}
+plot(team_war_name_ordered, win_percent_name_ordered, 
+     xlab = 'Team WAR', ylab = 'Team Win %', 
+     main = 'WAR vs. Win % by Team',
+     col = 'blue',
+     pch = 19)
+abline(war_vs_wins, col = "red")
+```
+
+```{r}
+hist(batters[batters$Team == 'ATL' & batters$PA > 50,]$fWAR, xlab = 'WAR', main = "Distribution of WAR (Braves Players)", col = "blue")
+```
+
+```{r}
+pie(team_batters$WAR, team_batters$Team)
+```
+
