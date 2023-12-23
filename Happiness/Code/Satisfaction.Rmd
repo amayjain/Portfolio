@@ -1,0 +1,54 @@
+---
+title: "Data_Final"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+js <- read.csv("JS.csv")
+hap <- read.csv("Happiness.csv")
+```
+
+```{r}
+strip <- function(x) {
+  as.numeric(gsub("%", "", x)) / 100
+}
+```
+
+```{r}
+js$Satisfied <- vapply(js$Satisfied, strip, 1.9)
+js$Neutral <- vapply(js$Neutral, strip, 1.9)
+js$Dissatisfied <- vapply(js$Dissatisfied, strip, 1.9)
+js$Don.t.Know <- vapply(js$Don.t.Know, strip, 1.9)
+```
+
+```{r}
+new <- merge(js, hap, by = "Country")
+```
+
+```{r}
+new$Happiness <- as.numeric(new$Happiness)
+```
+
+```{r}
+lm(new$Happiness ~ new$Satisfied)
+cor(new$Happiness, new$Satisfied)
+```
+
+
+```{r}
+plot(new$Satisfied, new$Happiness, pch = 16, cex = 1.3, col = "orange", main = "Job Satisfaction vs. Happiness", xlab = "Job Satisfaction %",
+     ylab = "Happiness Index")
+# abline(lm(new$Happiness ~ new$Satisfied), col = "red")
+```
+```{r}
+colnames(new)[6] <- "DontKnow"
+```
+
+```{r}
+write.csv(new, "Final.csv")
+```
+

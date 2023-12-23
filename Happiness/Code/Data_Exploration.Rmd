@@ -1,0 +1,42 @@
+---
+title: "Data Exploration"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+hap_or_not <- read.csv('StreetQuality.csv')
+happy <- read.csv('happydata.csv')
+```
+
+```{r}
+table(hap_or_not$Happy)
+```
+
+
+```{r}
+happy_education <- hap_or_not[hap_or_not$Happy == 1,]$Education.quality
+barplot(table(happy_education), col = 'blue', xlab = "Education Quality", ylab = 'Frequency', main = "Happy")
+```
+
+
+```{r}
+sad_education <- hap_or_not[hap_or_not$Happy == 0,]$Education.quality
+barplot(table(sad_education), col='red', xlab = "Education Quality", ylab = 'Frequency', main = "Sad")
+```
+
+
+```{r}
+happy_education_2 <- happy[happy$happy == 1,]$schoolquality
+barplot(table(happy_education_2), col = "blue", xlab = "School Quality", ylab = 'Frequency', main = "Happy")
+```
+
+
+```{r}
+sad_education_2 <- happy[happy$happy == 0,]$schoolquality
+barplot(table(sad_education_2), col = "red", xlab = "School Quality", ylab = 'Frequency', main = "Sad")
+```
+
