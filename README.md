@@ -13,6 +13,16 @@ With all the clean data, I then turned to Tableau and created multiple dashboard
 
 ## Baseball
 
-As a member of Bruin Sports Analytics, I had the chance to co-write an article on a sport of our choosing, and without a doubt, it was baseball for us. My partner and I wanted to look into how WAR was distributed across the league as a whole because WAR is primarily an individual statistic and see if there were any correlations with regular/postseason success.
+As a member of Bruin Sports Analytics, I had the chance to co-write an article on a sport of our choosing, and without a doubt, it was baseball for us. 
+
+My partner and I wanted to look into how WAR was distributed across the league as a whole because WAR is primarily an individual statistic and see if there were any correlations with regular/postseason success.
 
 [Article Link](https://www.bruinsportsanalytics.com/post/war-importance)
+
+## Happiness
+
+As a member of DataRes, I worked in a group to write an article on exploring what factors affect "happiness" around the world. As for how happiness was measured, we used the happiness index from the World Happiness Report. 
+
+I took a deeper dive into how job satisfaction correlated with the happiness index since a majority of people's lives are involved in work, so naturally being happy with their own job would be significant in a person's overall happiness.
+
+[Article Link](https://ucladatares.medium.com/quantifying-happiness-exploring-factors-affecting-happiness-e9376d32c847)
